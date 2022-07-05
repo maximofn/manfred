@@ -1,0 +1,102 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Máximo ",
+      "surnames": "Fernández Núñez ",
+      "title": "Data scientist and electronic engineer",
+      "description": "I am an electronic engineer who has discovered his passion in artificial intelligence and does not stop training in it",
+      "location": {
+        "notes": "Madrid "
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://deepmaxfn.github.io/DeepMaxFN-blog/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/maximofn"
+      },
+      {
+        "type": "other",
+        "URL": "https://maximofn.com/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MatPlotlib",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PyTorch",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/maximo-fernandez-nuñez-7496301b/"
+        }
+      ]
+    }
+  }
+}
