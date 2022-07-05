@@ -97,6 +97,30 @@
           "URL": "https://www.linkedin.com/in/maximo-fernandez-nuñez-7496301b/"
         }
       ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "MatPlotlib",
+          "type": "technology"
+        },
+        {
+          "name": "Numpy",
+          "type": "technology"
+        },
+        {
+          "name": "Pandas",
+          "type": "technology"
+        },
+        {
+          "name": "PyTorch",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
