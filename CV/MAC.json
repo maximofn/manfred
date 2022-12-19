@@ -1,23 +1,30 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Máximo ",
       "surnames": "Fernández Núñez ",
-      "title": "Data scientist and electronic engineer",
+      "title": "Data scientist and deep learning engineer ",
       "description": "I am an electronic engineer who has discovered his passion in artificial intelligence and does not stop training in it",
+      "avatar": {
+        "alt": "1665190260136.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/19/161c84b3-e534-440f-8bf3-946a7c1358e1_1665190260136.jpeg"
+      },
       "location": {
-        "notes": "Madrid "
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://deepmaxfn.github.io/DeepMaxFN-blog/"
+        "URL": "http://kaggle.com/maximofn"
       },
       {
         "type": "github",
@@ -25,17 +32,31 @@
       },
       {
         "type": "other",
+        "URL": "https://github.com/maximofn/maximofn/raw/main/Curriculum%20Vitae%20(5).pdf"
+      },
+      {
+        "type": "other",
         "URL": "https://maximofn.com/"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/18470429/maximofn"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Maximo_fn"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -47,13 +68,13 @@
       },
       {
         "skill": {
-          "name": "C",
+          "name": "Jupyter",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "C++",
+          "name": "PyTorch",
           "type": "technology"
         }
       },
@@ -71,19 +92,19 @@
       },
       {
         "skill": {
-          "name": "Jupyter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MatPlotlib",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PyTorch",
+          "name": "C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C++",
           "type": "technology"
         }
       }
@@ -95,6 +116,10 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/maximo-fernandez-nuñez-7496301b/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/18470429/maximofn"
         }
       ]
     },
@@ -120,7 +145,12 @@
           "name": "Python",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Data Scientist",
+        "Machine Learning Engineer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
