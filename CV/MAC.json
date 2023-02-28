@@ -9,7 +9,7 @@
       "name": "Máximo ",
       "surnames": "Fernández Núñez ",
       "title": "Data scientist and deep learning engineer ",
-      "description": "I am an deep learning engineer who has discovered his passion in artificial intelligence and does not stop training in it",
+      "description": "",
       "avatar": {
         "alt": "1665190260136.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/19/161c84b3-e534-440f-8bf3-946a7c1358e1_1665190260136.jpeg"
@@ -152,5 +152,29 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Numpy",
+        "type": "technology"
+      },
+      {
+        "name": "Jupyter",
+        "type": "technology"
+      },
+      {
+        "name": "Pandas",
+        "type": "technology"
+      },
+      {
+        "name": "PyTorch",
+        "type": "technology"
+      }
+    ]
   }
 }
