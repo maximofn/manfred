@@ -1,38 +1,38 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
-      "name": "Máximo ",
+      "name": "Máximo",
       "surnames": "Fernández Núñez ",
       "title": "Data scientist and deep learning engineer ",
-      "description": "",
+      "description": "I am an deep learning engineer who has discovered his passion in artificial intelligence and does not stop training in it",
       "avatar": {
-        "alt": "1665190260136.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/19/161c84b3-e534-440f-8bf3-946a7c1358e1_1665190260136.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/19/161c84b3-e534-440f-8bf3-946a7c1358e1_1665190260136.jpeg",
+        "alt": "1665190260136.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "http://kaggle.com/maximofn"
-      },
       {
         "type": "github",
         "URL": "https://github.com/maximofn"
       },
       {
-        "type": "other",
-        "URL": "https://github.com/maximofn/maximofn/raw/main/Curriculum%20Vitae%20(5).pdf"
+        "type": "twitter",
+        "URL": "https://twitter.com/Maximo_fn"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/18470429/maximofn"
       },
       {
         "type": "other",
@@ -40,59 +40,32 @@
       },
       {
         "type": "other",
-        "URL": "https://stackoverflow.com/users/18470429/maximofn"
+        "URL": "http://kaggle.com/maximofn"
       },
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/Maximo_fn"
+        "type": "other",
+        "URL": "https://github.com/maximofn/maximofn/raw/main/Curriculum%20Vitae%20(5).pdf",
+        "description": "Resume"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Numpy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MatPlotlib",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jupyter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pandas",
           "type": "technology"
         }
       },
@@ -104,8 +77,58 @@
       },
       {
         "skill": {
+          "name": "Jupyter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MatPlotlib",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Numpy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PyTorch",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -114,12 +137,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/maximo-fernandez-nuñez-7496301b/"
+          "URL": "https://stackoverflow.com/users/18470429/maximofn",
+          "type": "stackoverflow"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/18470429/maximofn"
+          "URL": "https://github.com/maximofn",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/Maximo_fn",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "maximofn@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "635244847",
+          "countryCode": "+34"
         }
       ]
     },
@@ -153,18 +189,14 @@
     },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Python",
+        "name": "Jupyter",
         "type": "technology"
       },
       {
         "name": "Numpy",
-        "type": "technology"
-      },
-      {
-        "name": "Jupyter",
         "type": "technology"
       },
       {
@@ -174,7 +206,12 @@
       {
         "name": "PyTorch",
         "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "I would love a job where I could solve problems by implementing deep learning models.  In addition, there is a good career and training plan"
   }
 }
