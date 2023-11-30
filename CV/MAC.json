@@ -51,7 +51,8 @@
       },
       {
         "type": "other",
-        "URL": "https://huggingface.co/Maximofn"
+        "URL": "https://huggingface.co/Maximofn",
+        "description": "Huggingface"
       }
     ]
   },
