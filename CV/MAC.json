@@ -57,6 +57,31 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Indra"
+        },
+        "roles": [
+          {
+            "name": "Intern",
+            "startDate": "2013-01-01",
+            "finishDate": "2014-05-01",
+            "challenges": [
+              {
+                "description": "Intern"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
