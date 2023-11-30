@@ -141,6 +141,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Blip2",
+          "description": "🤯 Can you imagine that you can add images to a gpt chat and ask questions about them? With Blip2 you can, log in and learn how.",
+          "URL": "https://maximofn.com/blip2/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/05afc6f3-db60-4ef4-a7be-193a7d388857_blip2.png",
+            "alt": "Blip2.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Terminal",
           "description": "🟢 Feel like a real hacker 🖥 knowing everything about the terminal 💻. Get inside and start handling ⌨ the terminal like a pro.",
           "URL": "https://maximofn.com/terminal/",
