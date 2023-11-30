@@ -141,6 +141,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Caffeine",
+          "description": "🚀 Wake up, Ubuntu! ☕ With Caffeine for Linux, say goodbye to those annoying sleep modes just when you least expect it. Work marathon? Eternal download? Caffeine is here to keep your machine up and running. This cool thing integrates seamlessly with your Ubuntu environment and is a breeze to use. Find out more about how to install and use Caffeine in our post - we promise your computer won't fall asleep while you read!",
+          "URL": "https://maximofn.com/caffeine/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/9f1c8d8c-f0b4-4d78-b884-f7ce325e77b0_caffeine_shots_so.png",
+            "alt": "caffeine_shots_so.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-09-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Conda",
           "description": "Conda vs Pip - the eternal battle! Find out why Conda wears the champion belt 🥊 and how Mamba is not just a dance, but the turbo your data science projects were waiting for 🚀. Dive with us into this maze of Python packages and find your way out in style 😎 🐍",
           "URL": "https://maximofn.com/conda/",
