@@ -509,6 +509,33 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Electronic engineering",
+        "startDate": "2005-09-01",
+        "institution": {
+          "name": "Universidad Complutense de Madrid",
+          "description": "Electronic engineering"
+        },
+        "finishDate": "2011-06-01",
+        "linkedCompetences": [
+          {
+            "name": "C",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
