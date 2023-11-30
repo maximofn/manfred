@@ -60,6 +60,33 @@
     "jobs": [
       {
         "organization": {
+          "name": "Arquimea"
+        },
+        "roles": [
+          {
+            "name": "Electronic engineer",
+            "startDate": "2017-10-01",
+            "finishDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "# RESPONSIBILITIES\n * HW and FW: Design and create new technologies that are widely used by internal or external teams.\n * Evolving the architecture to support future requirements.\n * Proactively supporting other team members and helping them to succeed\n * Challenge the team's processes, looking for ways to improve them.\n\n# KEY ACCOMPLISHMENTS\n * Before my arrival there was a different HW design for each UAV and for each ground station. I unified the designs into one. This meant that 80% of the FW development of one UAV was inherited by the other UAV, thus saving months of development. It also eliminated duplicate designs doing the same thing."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Indra"
         },
         "roles": [
