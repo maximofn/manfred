@@ -141,6 +141,22 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Terminal",
+          "description": "🟢 Feel like a real hacker 🖥 knowing everything about the terminal 💻. Get inside and start handling ⌨ the terminal like a pro.",
+          "URL": "https://maximofn.com/terminal/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/074596e6-1a56-4d52-bb50-e0eb7498740c_terminal.jpg",
+            "alt": "terminal.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2022-09-01",
+        "tags": [
+          "post"
+        ]
+      },
+      {
+        "details": {
           "name": "Regular expresions",
           "URL": "https://maximofn.com/expresiones-regulares/"
         },
