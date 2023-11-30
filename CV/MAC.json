@@ -141,6 +141,22 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "SSH",
+          "description": "Connecting securely is essential in today's digital world. Discover how SSH allows you to establish encrypted communications between your machine and remote servers. From basic concepts to advanced tips, dive into this comprehensive tutorial and master the craft of SSH. 🔐 💼",
+          "URL": "https://maximofn.com/ssh/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/2a47630a-ef48-4000-9c62-e25dce01f5ef_ssh.jpg",
+            "alt": "SSH.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-03-01",
+        "tags": [
+          "post"
+        ]
+      },
+      {
+        "details": {
           "name": "Blip2",
           "description": "🤯 Can you imagine that you can add images to a gpt chat and ask questions about them? With Blip2 you can, log in and learn how.",
           "URL": "https://maximofn.com/blip2/",
