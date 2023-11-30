@@ -141,6 +141,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Whisper",
+          "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
+          "URL": "https://maximofn.com/whisper/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/ef45cd68-a1d9-4667-be75-0052a3a6307c_whisper.jpg",
+            "alt": "whisper.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-03-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "SSH",
           "description": "Connecting securely is essential in today's digital world. Discover how SSH allows you to establish encrypted communications between your machine and remote servers. From basic concepts to advanced tips, dive into this comprehensive tutorial and master the craft of SSH. 🔐 💼",
           "URL": "https://maximofn.com/ssh/",
