@@ -141,6 +141,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Fail2ban",
+          "description": "🛡️ 💻 Raise your security game! Dive into this tutorial and find out how Fail2Ban helps you stop brute force attacks in their tracks. From installation to configuration, I've got you covered",
+          "URL": "https://maximofn.com/fail2ban/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/4403f1a2-03af-446b-804c-7a76d2ab908d_fail2ban.png",
+            "alt": "fail2ban.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-09-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Caffeine",
           "description": "🚀 Wake up, Ubuntu! ☕ With Caffeine for Linux, say goodbye to those annoying sleep modes just when you least expect it. Work marathon? Eternal download? Caffeine is here to keep your machine up and running. This cool thing integrates seamlessly with your Ubuntu environment and is a breeze to use. Find out more about how to install and use Caffeine in our post - we promise your computer won't fall asleep while you read!",
           "URL": "https://maximofn.com/caffeine/",
