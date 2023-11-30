@@ -64,6 +64,37 @@
         },
         "roles": [
           {
+            "name": "Deep learning engineer",
+            "startDate": "2019-08-01",
+            "finishDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "# RESPONSIBILITIES\n * Computer vision algorithms. Researching and creating proofs of concept and introducing new technologies to the team.\n * UAV electronics: Leading new designs both HW and FW. Choosing the right people to do them and explaining the concepts to them.\n * Mentor others to accelerate their professional growth and encourage them to get involved.\n * Challenge the team's processes, looking for ways to improve them.\n\n# KEY ACCOMPLISHMENTS\n * I introduced video processing in the UAV, making this new functionality an added value and setting us apart from the competition.\n * I developed the vision algorithms in such a way as to rule out the use of commercial devices costing €2000 per unit. This is a big saving per UAV, so that they can be sold more cheaply and stand out in the market.\n * Thanks to a prototype that geo-positions itself without GPS, a new line of research for future UAVs for technological warfare has been opened up."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Arquimea"
+        },
+        "roles": [
+          {
             "name": "Electronic engineer",
             "startDate": "2017-10-01",
             "finishDate": "2019-08-01",
