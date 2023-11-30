@@ -60,7 +60,12 @@
     "jobs": [
       {
         "organization": {
-          "name": "Arquimea"
+          "name": "Arquimea",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/45c063d1-283b-4bea-a19a-ca06b09d3258_arquimea_logo_positi.png",
+            "alt": "ARQUIMEA_LOGO_POSITIVO.png"
+          },
+          "URL": "https://www.arquimea.com/es/"
         },
         "roles": [
           {
