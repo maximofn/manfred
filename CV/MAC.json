@@ -141,6 +141,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "GIT",
+          "description": "Have you rewritten that code that took you hours to do? Don't panic! With GIT, say goodbye to \"Oops, I deleted it\". Join me on this adventure and learn how to play with versions like a programming rockstar. 🎸 💾",
+          "URL": "https://maximofn.com/git/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/dfa8bcec-c500-4374-be85-e59228441d29_git.jpg",
+            "alt": "Git.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-04-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Whisper",
           "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
           "URL": "https://maximofn.com/whisper/",
