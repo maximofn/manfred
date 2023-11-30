@@ -141,6 +141,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Conda",
+          "description": "Conda vs Pip - the eternal battle! Find out why Conda wears the champion belt 🥊 and how Mamba is not just a dance, but the turbo your data science projects were waiting for 🚀. Dive with us into this maze of Python packages and find your way out in style 😎 🐍",
+          "URL": "https://maximofn.com/conda/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/419643fc-2cca-4cd6-b64e-06ea32b8d583_conda_logo.png",
+            "alt": "conda_logo.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-04-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "GIT",
           "description": "Have you rewritten that code that took you hours to do? Don't panic! With GIT, say goodbye to \"Oops, I deleted it\". Join me on this adventure and learn how to play with versions like a programming rockstar. 🎸 💾",
           "URL": "https://maximofn.com/git/",
