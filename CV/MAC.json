@@ -91,7 +91,12 @@
       },
       {
         "organization": {
-          "name": "Arquimea"
+          "name": "Arquimea",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/3f9ab8ee-a615-48b2-893d-b47acb8b33d0_arquimea_logo_positi.png",
+            "alt": "ARQUIMEA_LOGO_POSITIVO.png"
+          },
+          "URL": "https://www.arquimea.com/es/"
         },
         "roles": [
           {
