@@ -64,6 +64,33 @@
         },
         "roles": [
           {
+            "name": "Junior Engineer",
+            "startDate": "2014-05-01",
+            "finishDate": "2017-05-01",
+            "challenges": [
+              {
+                "description": "Mis principales tareas son:\n - Diseño HW específico\n - Programación de SW para microprocesadores\n - Arranque y reparación de tarjetas de control de procesos\n - Generación de documentación\n - Coordinación con todas las personas involucradas en el proyecto, HW, FW, SW, pruebasMis"
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra"
+        },
+        "roles": [
+          {
             "name": "Intern",
             "startDate": "2013-01-01",
             "finishDate": "2014-05-01",
