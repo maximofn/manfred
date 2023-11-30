@@ -60,6 +60,61 @@
     "jobs": [
       {
         "organization": {
+          "name": "Sener Aeroespacial",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/8c78027e-10c4-4f3c-a4ae-e20942e7b29d_download.jpeg",
+            "alt": "download.jpeg"
+          },
+          "URL": "https://www.group.sener/mercados/aeroespacial/"
+        },
+        "roles": [
+          {
+            "name": "Deep learning engineer",
+            "startDate": "2022-09-01",
+            "challenges": [
+              {
+                "description": "# RESPONSIBILITIES\n * Development of a dataset of synthetic images created with stable diffusion for training segmentation networks.\n * Create neural network architecture for computer vision perception of ground vehicles in unstructured environments.\n * Optimise the machine on which all the algorithms for both perception and guidance will run.\n * Lead the artificial intelligence group, to perform edge vision tasks, such as retraining and processing ofline data.\n\n# KEY ACCOMPLISHMENTS\n * Optimization of models with TensorRT, reducing inference time and VRAM memory.\n * I shared my knowledge with the deep learning group, to empower them to create better solutions together and do it faster.\n * I mentored an intern so he could grow professionally."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Numpy",
+                "type": "technology"
+              },
+              {
+                "name": "OpenCV",
+                "type": "technology"
+              },
+              {
+                "name": "Pandas",
+                "type": "technology"
+              },
+              {
+                "name": "PyTorch",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Shell",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Arquimea",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/45c063d1-283b-4bea-a19a-ca06b09d3258_arquimea_logo_positi.png",
