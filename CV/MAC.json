@@ -64,6 +64,33 @@
         },
         "roles": [
           {
+            "name": "Development engineer",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-10-01",
+            "challenges": [
+              {
+                "description": "The main tasks are:\n - HW design with autonomy\n - SW programming for microprocessors\n - Verification\n - Efficient technical troubleshooting\n - Start-up and repair of process control boards\n - Documentation generation\n - Coordination with all the people involved in the project, HW, FW, SW, testing\n - Search for innovation.The main tasks are: - HW design with autonomy - SW programming for microprocessors - Verification - Solve technical problems efficiently - Startup and repair of process control boards - Generation of documentation - Coordination with all people involved in the project, HW, FW, SW, testing - Search for innovation.\nSkills: Teamwork - Python - Algorithms - Implementation of solutions."
+              }
+            ],
+            "competences": [
+              {
+                "name": "C",
+                "type": "technology"
+              },
+              {
+                "name": "C++",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra"
+        },
+        "roles": [
+          {
             "name": "Junior Engineer",
             "startDate": "2014-05-01",
             "finishDate": "2017-05-01",
