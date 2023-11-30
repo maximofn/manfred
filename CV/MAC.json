@@ -181,7 +181,7 @@
       {
         "details": {
           "name": "Docker",
-          "description": "🐳 Crea todos los entornos de desarrollo que quieras con Docker. Ya no más «En mi máquina funciona»",
+          "description": "🐳 Create as many development environments as you want with Docker. No more \"On my machine it works\"",
           "URL": "https://maximofn.com/docker/",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/cbc02050-b726-4158-b559-a0be75f13b79_docker.png",
