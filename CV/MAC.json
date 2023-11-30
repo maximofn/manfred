@@ -172,7 +172,12 @@
       },
       {
         "organization": {
-          "name": "Indra"
+          "name": "Indra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/9a1a3932-c7ec-4ab9-afaf-24d8618d6d48_logo.png",
+            "alt": "logo.png"
+          },
+          "URL": "https://www.indracompany.com/es"
         },
         "roles": [
           {
