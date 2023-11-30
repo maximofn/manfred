@@ -36,16 +36,22 @@
       },
       {
         "type": "other",
-        "URL": "https://maximofn.com/"
+        "URL": "https://maximofn.com/",
+        "description": "Portfolio"
       },
       {
         "type": "other",
-        "URL": "http://kaggle.com/maximofn"
+        "URL": "http://kaggle.com/maximofn",
+        "description": "kaggle"
       },
       {
         "type": "other",
         "URL": "https://github.com/maximofn/maximofn/raw/main/Curriculum%20Vitae%20(5).pdf",
         "description": "Resume"
+      },
+      {
+        "type": "other",
+        "URL": "https://huggingface.co/Maximofn"
       }
     ]
   },
