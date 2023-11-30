@@ -141,28 +141,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Matrix calculation with Numpy",
-          "description": "🟢 Learn how to do all the matrix calculation you want in an agile way with Numpy",
-          "URL": "https://maximofn.com/numpy/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/aa11cefb-d5a5-40ac-aace-32bbe7d50516_numpy-icon.png",
-            "alt": "numpy-icon.png"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2022-12-01",
-        "tags": [
-          "post"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Regular expresions",
           "URL": "https://maximofn.com/expresiones-regulares/"
         },
@@ -212,6 +190,28 @@
         },
         "type": "post",
         "publishingDate": "2021-06-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Matrix calculation with Numpy",
+          "description": "🟢 Learn how to do all the matrix calculation you want in an agile way with Numpy",
+          "URL": "https://maximofn.com/numpy/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/aa11cefb-d5a5-40ac-aace-32bbe7d50516_numpy-icon.png",
+            "alt": "numpy-icon.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2021-04-01",
         "tags": [
           "post"
         ],
