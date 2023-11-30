@@ -61,7 +61,11 @@
         "details": {
           "name": "Subtify",
           "description": "# Subtify\n\nSubtify transforms any YouTube or Twitch video into a multilingual experience with clear and colorful subtitles that distinguish between different speakers. Discover the ultimate solution for automatic transcriptions and subtitles.\n\n<div>\n    <h2 align=\"center\">\n        <a href=\"https://huggingface.co/spaces/Maximofn/subtify\" target='_blank'>\n        <img src=\"https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue\">\n        </a>\n    </h2>\n</div>\n\n<div style=\"text-align:center;\">\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/Subtify_huggingface_01-scaled.webp\" alt=\"Subtify_huggingface_01\" width=\"1920\">\n    </div>\n    <div>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"2em\" viewBox=\"0 0 384 512\">\n            <style>svg{fill:#d1ac29}</style>\n            <path d=\"M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z\"/>\n        </svg>\n    </div>\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/subtify_huggingface_02.webp\" alt=\"Subtify_huggingface_02\" width=\"1920\">\n    </div>\n</div>\n\n#### You can support my work by making \"☆ Star\" in the repo, inviting me for a coffee Thanks!\n\n<div style=\"float: left;\">\n    <a href=\"https://www.buymeacoffee.com/maximofn\" target=\"_blank\">\n        <img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010\" alt=\"buy me a coffe\">\n    </a>\n</div>\n",
-          "URL": "https://www.maximofn.com/subtify"
+          "URL": "https://www.maximofn.com/subtify",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/67cff4e7-68e9-4448-94d3-5c3b09fe65a7_subtify_logo-scaled.png",
+            "alt": "subtify_logo-scaled.png"
+          }
         },
         "type": "openSource",
         "roles": [
