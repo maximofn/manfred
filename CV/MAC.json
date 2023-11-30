@@ -221,6 +221,28 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Data management with Pandas",
+          "description": "📊 Manage data 📝 easily with Pandas 📖.",
+          "URL": "https://maximofn.com/pandas/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/1ce15568-d529-4d55-b1bf-638f5c34dae6_pandas-icon.png",
+            "alt": "pandas-icon.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2021-06-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
