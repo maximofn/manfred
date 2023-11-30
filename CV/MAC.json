@@ -457,6 +457,11 @@
         "name": "ES",
         "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
