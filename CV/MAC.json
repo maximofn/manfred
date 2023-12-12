@@ -270,7 +270,11 @@
         "details": {
           "name": "OpenAI API",
           "description": "🚀 \"Discover the power of the OpenAI API in this post! 🌟 Learn how to install the OpenAI library ✨ and I'll guide you through the first steps to become an artificial intelligence guru. 🤖 No matter if you're a curious beginner or a coding expert looking for new adventures, this post has everything you need to get started. Get ready to explore the universe of GPT for text generation and DALL-E, image analysis, all with a touch of fun and a lot of innovation! 🎉👩‍💻 Dive into the exciting world of AI and start your journey to unlimited creativity! 🌈💻",
-          "URL": "https://maximofn.com/openai-api/"
+          "URL": "https://maximofn.com/openai-api/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/8fc575d9-1cfd-4005-869d-243e100d6181_openai-mini.jpg",
+            "alt": "openai-mini.jpg"
+          }
         },
         "type": "post",
         "publishingDate": "2023-12-01",
