@@ -268,6 +268,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "HTML",
+          "description": "Notes about HTML",
+          "URL": "https://maximofn.com/html/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/089eb373-3341-4cb0-9a89-d473144d92bf_html5.jpg",
+            "alt": "html5.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Caffeine",
           "description": "🚀 Wake up, Ubuntu! ☕ With Caffeine for Linux, say goodbye to those annoying sleep modes just when you least expect it. Work marathon? Eternal download? Caffeine is here to keep your machine up and running. This cool thing integrates seamlessly with your Ubuntu environment and is a breeze to use. Find out more about how to install and use Caffeine in our post - we promise your computer won't fall asleep while you read!",
           "URL": "https://maximofn.com/caffeine/",
