@@ -57,32 +57,134 @@
     ]
   },
   "experience": {
-    "projects": [
+    "jobs": [
       {
-        "details": {
-          "name": "Subtify",
-          "description": "# Subtify\n\nSubtify transforms any YouTube or Twitch video into a multilingual experience with clear and colorful subtitles that distinguish between different speakers. Discover the ultimate solution for automatic transcriptions and subtitles.\n\n<div>\n    <h2 align=\"center\">\n        <a href=\"https://huggingface.co/spaces/Maximofn/subtify\" target='_blank'>\n        <img src=\"https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue\">\n        </a>\n    </h2>\n</div>\n\n<div style=\"text-align:center;\">\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/Subtify_huggingface_01-scaled.webp\" alt=\"Subtify_huggingface_01\" width=\"1920\">\n    </div>\n    <div>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"2em\" viewBox=\"0 0 384 512\">\n            <style>svg{fill:#d1ac29}</style>\n            <path d=\"M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z\"/>\n        </svg>\n    </div>\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/subtify_huggingface_02.webp\" alt=\"Subtify_huggingface_02\" width=\"1920\">\n    </div>\n</div>\n\n#### You can support my work by making \"☆ Star\" in the repo, inviting me for a coffee Thanks!\n\n<div style=\"float: left;\">\n    <a href=\"https://www.buymeacoffee.com/maximofn\" target=\"_blank\">\n        <img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010\" alt=\"buy me a coffe\">\n    </a>\n</div>\n",
-          "URL": "https://www.maximofn.com/subtify",
+        "organization": {
+          "name": "Sener Aeroespacial",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/67cff4e7-68e9-4448-94d3-5c3b09fe65a7_subtify_logo-scaled.png",
-            "alt": "subtify_logo-scaled.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/5eafbca2-9338-45ea-b46d-7887e7515d0d_linkedin-photo-7719.linkedin-photo-7719",
+            "alt": "23/12/12/5eafbca2-9338-45ea-b46d-7887e7515d0d_linkedin-photo-7719.linkedin-photo-7719"
           }
         },
-        "type": "openSource",
         "roles": [
           {
-            "name": "Developer",
-            "startDate": "2023-10-01",
-            "competences": [
+            "name": "Machine learning & software engineer",
+            "startDate": "2022-09-01",
+            "challenges": [
               {
-                "name": "Python",
-                "type": "technology"
+                "description": "PRINCIPALES LOGROS\n* Desarrollo de dataset de imágenes sintéticas creadas con stable diffusion para entrenamiento de redes de segmentación\n* Optimización de modelos con TensorRT, reduciendo el tiempo de inferencia y la memoria VRAM.\n* Compartí mis conocimientos con el grupo de aprendizaje profundo, para que pudieran crear juntos mejores soluciones y hacerlo más rápido.\n* Fui mentor de un becario para que pudiera crecer profesionalmente.\n\nRESPONSABILIDADES\n* Crear una arquitectura de redes neuronales para la percepción por visión artificial de vehículos terrestres en entornos no estructurados.\n* Optimizar la máquina en la que se ejecutarán todos los algoritmos tanto de percepción como de guiado.\n* Dirigir el grupo de inteligencia artificial, para realizar tareas de visión de borde, como el reentrenamiento y el procesamiento de datos de línea."
               }
-            ],
-            "finishDate": "2023-11-01"
+            ]
           }
         ]
       },
+      {
+        "organization": {
+          "name": "ARQUIMEA ADS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/103cf922-1d19-4c82-9121-f855078f857b_linkedin-photo-7719.linkedin-photo-7719",
+            "alt": "23/12/12/103cf922-1d19-4c82-9121-f855078f857b_linkedin-photo-7719.linkedin-photo-7719"
+          }
+        },
+        "roles": [
+          {
+            "name": "Research and Development Engineer",
+            "startDate": "2017-10-01",
+            "finishDate": "2022-07-31",
+            "challenges": [
+              {
+                "description": "PRINCIPALES LOGROS\n* Introduje el procesamiento de vídeo en el UAV, haciendo de esta nueva funcionalidad un valor añadido y\ndiferenciándonos de la competencia.\n* Desarrollé los algoritmos de visión de forma que se descartara el uso de dispositivos comerciales\nque cuestan 2.000 euros por unidad. Esto supone un gran ahorro por UAV, por lo que se pueden vender más baratos y\ndestacar en el mercado.\n* Gracias a un prototipo que se geoposiciona sin GPS, una nueva línea de investigación para futuros\nUAV para la guerra tecnológica.\n\nRESPONSABILIDADES\n* Algoritmos de visión por ordenador. Investigar y crear pruebas de concepto e introducir nuevas\ntecnologías al equipo.\n* Electrónica de los UAV: Liderar nuevos diseños tanto HW como FW. Elegir a las personas adecuadas para realizarlos y explicarles los conceptos.\n* Ser mentor de otros para acelerar su crecimiento profesional y animarles a participar.\n* Desafiar los procesos del equipo, buscando formas de mejorarlos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/f53cf555-3c8d-4d88-b547-a055f8020e93_linkedin-photo-7719.linkedin-photo-7719",
+            "alt": "23/12/12/f53cf555-3c8d-4d88-b547-a055f8020e93_linkedin-photo-7719.linkedin-photo-7719"
+          }
+        },
+        "roles": [
+          {
+            "name": "Development Engineer",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "Las principales tareas son:\n- Diseño HW con autonomía\n- Programación de SW para microprocesadores\n- Verificación\n- Resolver problemas técnicos con eficacia\n- Arranque y reparación de tarjetas de control de procesos\n- Generación de documentación\n- Coordinación con todas las personas involucradas en el proyecto, HW, FW, SW, pruebas\n- Búsqueda de innovación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/8f8d05d2-f930-4a1f-b400-db40a259e927_linkedin-photo-7719.linkedin-photo-7719",
+            "alt": "23/12/12/8f8d05d2-f930-4a1f-b400-db40a259e927_linkedin-photo-7719.linkedin-photo-7719"
+          }
+        },
+        "roles": [
+          {
+            "name": "ingeniero junior",
+            "startDate": "2014-05-01",
+            "finishDate": "2017-05-31",
+            "challenges": [
+              {
+                "description": "Mis principales tareas son:\n- Diseño HW específico\n- Programación de SW para microprocesadores\n- Arranque y reparación de tarjetas de control de procesos\n- Generación de documentación\n- Coordinación con todas las personas involucradas en el proyecto, HW, FW, SW, pruebas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Indra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/283d8b86-9afd-4586-9871-5f906b93ccb1_linkedin-photo-7719.linkedin-photo-7719",
+            "alt": "23/12/12/283d8b86-9afd-4586-9871-5f906b93ccb1_linkedin-photo-7719.linkedin-photo-7719"
+          }
+        },
+        "roles": [
+          {
+            "name": "Becario",
+            "startDate": "2013-01-01",
+            "finishDate": "2014-05-31",
+            "challenges": [
+              {
+                "description": "Beca a jornada completa en el Área HWPP (Hardware de Proceso y Potencia) dentro de unidad TGP (Tecnología y Gestión de Producto) desarrollando las siguientes funciones:\n· Diseño SW de microcontroladores (familia PIC32 de Microchip) para arranque de procesadoras y bancos de pruebas\n· Diseño HW de tarjetas de pruebas\n· Labores de apoyo e integración de sistema dentro de proyectos de Sistemas de Control de Voz, ámbito nacional e internacional\n· Labores de apoyo a industrialización de producto (calidad, control documental, etc.)\n· Elaboración de documentación técnica\n· Apoyo a gestión de proyectos dentro del área"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Carrefour",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/fae6cb8f-da45-4078-9989-6769a9eb88f9_linkedin-photo-7719.linkedin-photo-7719",
+            "alt": "23/12/12/fae6cb8f-da45-4078-9989-6769a9eb88f9_linkedin-photo-7719.linkedin-photo-7719"
+          }
+        },
+        "roles": [
+          {
+            "name": "Vendedor electronica",
+            "startDate": "2012-12-01",
+            "finishDate": "2013-01-31",
+            "challenges": [
+              {
+                "description": "Venta de electrónica cara al público"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
       {
         "details": {
           "name": "GPU monitor",
@@ -103,6 +205,31 @@
                 "name": "Bash",
                 "type": "technology"
               },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Subtify",
+          "description": "# Subtify\n\nSubtify transforms any YouTube or Twitch video into a multilingual experience with clear and colorful subtitles that distinguish between different speakers. Discover the ultimate solution for automatic transcriptions and subtitles.\n\n<div>\n    <h2 align=\"center\">\n        <a href=\"https://huggingface.co/spaces/Maximofn/subtify\" target='_blank'>\n        <img src=\"https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue\">\n        </a>\n    </h2>\n</div>\n\n<div style=\"text-align:center;\">\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/Subtify_huggingface_01-scaled.webp\" alt=\"Subtify_huggingface_01\" width=\"1920\">\n    </div>\n    <div>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"2em\" viewBox=\"0 0 384 512\">\n            <style>svg{fill:#d1ac29}</style>\n            <path d=\"M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z\"/>\n        </svg>\n    </div>\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/subtify_huggingface_02.webp\" alt=\"Subtify_huggingface_02\" width=\"1920\">\n    </div>\n</div>\n\n#### You can support my work by making \"☆ Star\" in the repo, inviting me for a coffee Thanks!\n\n<div style=\"float: left;\">\n    <a href=\"https://www.buymeacoffee.com/maximofn\" target=\"_blank\">\n        <img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010\" alt=\"buy me a coffe\">\n    </a>\n</div>\n",
+          "URL": "https://www.maximofn.com/subtify",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/67cff4e7-68e9-4448-94d3-5c3b09fe65a7_subtify_logo-scaled.png",
+            "alt": "subtify_logo-scaled.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-10-01",
+            "competences": [
               {
                 "name": "Python",
                 "type": "technology"
@@ -141,32 +268,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Fail2ban",
-          "description": "🛡️ 💻 Raise your security game! Dive into this tutorial and find out how Fail2Ban helps you stop brute force attacks in their tracks. From installation to configuration, I've got you covered",
-          "URL": "https://maximofn.com/fail2ban/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/4403f1a2-03af-446b-804c-7a76d2ab908d_fail2ban.png",
-            "alt": "fail2ban.png"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2023-09-01",
-        "tags": [
-          "post"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "Bash",
-            "type": "technology"
-          },
-          {
-            "name": "Shell",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Caffeine",
           "description": "🚀 Wake up, Ubuntu! ☕ With Caffeine for Linux, say goodbye to those annoying sleep modes just when you least expect it. Work marathon? Eternal download? Caffeine is here to keep your machine up and running. This cool thing integrates seamlessly with your Ubuntu environment and is a breeze to use. Find out more about how to install and use Caffeine in our post - we promise your computer won't fall asleep while you read!",
           "URL": "https://maximofn.com/caffeine/",
@@ -193,22 +294,26 @@
       },
       {
         "details": {
-          "name": "Conda",
-          "description": "Conda vs Pip - the eternal battle! Find out why Conda wears the champion belt 🥊 and how Mamba is not just a dance, but the turbo your data science projects were waiting for 🚀. Dive with us into this maze of Python packages and find your way out in style 😎 🐍",
-          "URL": "https://maximofn.com/conda/",
+          "name": "Fail2ban",
+          "description": "🛡️ 💻 Raise your security game! Dive into this tutorial and find out how Fail2Ban helps you stop brute force attacks in their tracks. From installation to configuration, I've got you covered",
+          "URL": "https://maximofn.com/fail2ban/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/419643fc-2cca-4cd6-b64e-06ea32b8d583_conda_logo.png",
-            "alt": "conda_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/4403f1a2-03af-446b-804c-7a76d2ab908d_fail2ban.png",
+            "alt": "fail2ban.png"
           }
         },
         "type": "post",
-        "publishingDate": "2023-04-01",
+        "publishingDate": "2023-09-01",
         "tags": [
           "post"
         ],
         "relatedCompetences": [
           {
-            "name": "Python",
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
             "type": "technology"
           }
         ]
@@ -237,16 +342,16 @@
       },
       {
         "details": {
-          "name": "Whisper",
-          "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
-          "URL": "https://maximofn.com/whisper/",
+          "name": "Conda",
+          "description": "Conda vs Pip - the eternal battle! Find out why Conda wears the champion belt 🥊 and how Mamba is not just a dance, but the turbo your data science projects were waiting for 🚀. Dive with us into this maze of Python packages and find your way out in style 😎 🐍",
+          "URL": "https://maximofn.com/conda/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/ef45cd68-a1d9-4667-be75-0052a3a6307c_whisper.jpg",
-            "alt": "whisper.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/419643fc-2cca-4cd6-b64e-06ea32b8d583_conda_logo.png",
+            "alt": "conda_logo.png"
           }
         },
         "type": "post",
-        "publishingDate": "2023-03-01",
+        "publishingDate": "2023-04-01",
         "tags": [
           "post"
         ],
@@ -275,16 +380,16 @@
       },
       {
         "details": {
-          "name": "Blip2",
-          "description": "🤯 Can you imagine that you can add images to a gpt chat and ask questions about them? With Blip2 you can, log in and learn how.",
-          "URL": "https://maximofn.com/blip2/",
+          "name": "Whisper",
+          "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
+          "URL": "https://maximofn.com/whisper/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/05afc6f3-db60-4ef4-a7be-193a7d388857_blip2.png",
-            "alt": "Blip2.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/ef45cd68-a1d9-4667-be75-0052a3a6307c_whisper.jpg",
+            "alt": "whisper.jpg"
           }
         },
         "type": "post",
-        "publishingDate": "2023-02-01",
+        "publishingDate": "2023-03-01",
         "tags": [
           "post"
         ],
@@ -313,6 +418,28 @@
         "relatedCompetences": [
           {
             "name": "Bash",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Blip2",
+          "description": "🤯 Can you imagine that you can add images to a gpt chat and ask questions about them? With Blip2 you can, log in and learn how.",
+          "URL": "https://maximofn.com/blip2/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/05afc6f3-db60-4ef4-a7be-193a7d388857_blip2.png",
+            "alt": "Blip2.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
             "type": "technology"
           }
         ]
