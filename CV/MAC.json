@@ -268,6 +268,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Tokens",
+          "description": "You keep hearing that one model has a context window of x tokens? And that another has y tokens? But you have no idea what tokens are? Come in and make yourself comfortable and I'll tell you what tokens are",
+          "URL": "https://maximofn.com/tokens/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/a0b2cbb1-77a2-4504-9e45-1f840fa27d80_tokens.png",
+            "alt": "tokens.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "OpenAI API",
           "description": "🚀 \"Discover the power of the OpenAI API in this post! 🌟 Learn how to install the OpenAI library ✨ and I'll guide you through the first steps to become an artificial intelligence guru. 🤖 No matter if you're a curious beginner or a coding expert looking for new adventures, this post has everything you need to get started. Get ready to explore the universe of GPT for text generation and DALL-E, image analysis, all with a touch of fun and a lot of innovation! 🎉👩‍💻 Dive into the exciting world of AI and start your journey to unlimited creativity! 🌈💻",
           "URL": "https://maximofn.com/openai-api/",
