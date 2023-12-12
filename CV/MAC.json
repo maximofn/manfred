@@ -6,19 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Máximo",
-      "surnames": "Fernández Núñez ",
-      "title": "Data scientist and deep learning engineer ",
-      "description": "I am an deep learning engineer who has discovered his passion in artificial intelligence and does not stop training in it",
+      "name": "Maximo",
+      "surnames": "(MaximoFN) Fernandez Nuñez",
+      "title": "Artificial intelligence engineer",
+      "description": "+10 años de experiencia 💻\nExperiencia en el desarrollo de sistemas de inteligencia artificial basadas en redes neuronales para el área de visión en el edge 👀. Uso de tecnologías como Pytorch, Deepstream, TensorRT, Python, C, C++, bash, docker, git",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/19/161c84b3-e534-440f-8bf3-946a7c1358e1_1665190260136.jpeg",
         "alt": "1665190260136.jpeg"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJGbnJ5g08Qg0RkhIgzQPMFJA)",
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid"
+        "municipality": "Rivas-Vaciamadrid"
       }
     },
     "relevantLinks": [
@@ -57,249 +57,7 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Sener Aeroespacial",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/8c78027e-10c4-4f3c-a4ae-e20942e7b29d_download.jpeg",
-            "alt": "download.jpeg"
-          },
-          "URL": "https://www.group.sener/mercados/aeroespacial/"
-        },
-        "roles": [
-          {
-            "name": "Deep learning engineer",
-            "startDate": "2022-09-01",
-            "challenges": [
-              {
-                "description": "# RESPONSIBILITIES\n * Development of a dataset of synthetic images created with stable diffusion for training segmentation networks.\n * Create neural network architecture for computer vision perception of ground vehicles in unstructured environments.\n * Optimise the machine on which all the algorithms for both perception and guidance will run.\n * Lead the artificial intelligence group, to perform edge vision tasks, such as retraining and processing ofline data.\n\n# KEY ACCOMPLISHMENTS\n * Optimization of models with TensorRT, reducing inference time and VRAM memory.\n * I shared my knowledge with the deep learning group, to empower them to create better solutions together and do it faster.\n * I mentored an intern so he could grow professionally."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bash",
-                "type": "technology"
-              },
-              {
-                "name": "Docker",
-                "type": "technology"
-              },
-              {
-                "name": "Numpy",
-                "type": "technology"
-              },
-              {
-                "name": "OpenCV",
-                "type": "technology"
-              },
-              {
-                "name": "Pandas",
-                "type": "technology"
-              },
-              {
-                "name": "PyTorch",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Shell",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Arquimea",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/45c063d1-283b-4bea-a19a-ca06b09d3258_arquimea_logo_positi.png",
-            "alt": "ARQUIMEA_LOGO_POSITIVO.png"
-          },
-          "URL": "https://www.arquimea.com/es/"
-        },
-        "roles": [
-          {
-            "name": "Deep learning engineer",
-            "startDate": "2019-08-01",
-            "finishDate": "2022-07-01",
-            "challenges": [
-              {
-                "description": "# RESPONSIBILITIES\n * Computer vision algorithms. Researching and creating proofs of concept and introducing new technologies to the team.\n * UAV electronics: Leading new designs both HW and FW. Choosing the right people to do them and explaining the concepts to them.\n * Mentor others to accelerate their professional growth and encourage them to get involved.\n * Challenge the team's processes, looking for ways to improve them.\n\n# KEY ACCOMPLISHMENTS\n * I introduced video processing in the UAV, making this new functionality an added value and setting us apart from the competition.\n * I developed the vision algorithms in such a way as to rule out the use of commercial devices costing €2000 per unit. This is a big saving per UAV, so that they can be sold more cheaply and stand out in the market.\n * Thanks to a prototype that geo-positions itself without GPS, a new line of research for future UAVs for technological warfare has been opened up."
-              }
-            ],
-            "competences": [
-              {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "C++",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Arquimea",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/3f9ab8ee-a615-48b2-893d-b47acb8b33d0_arquimea_logo_positi.png",
-            "alt": "ARQUIMEA_LOGO_POSITIVO.png"
-          },
-          "URL": "https://www.arquimea.com/es/"
-        },
-        "roles": [
-          {
-            "name": "Electronic engineer",
-            "startDate": "2017-10-01",
-            "finishDate": "2019-08-01",
-            "challenges": [
-              {
-                "description": "# RESPONSIBILITIES\n * HW and FW: Design and create new technologies that are widely used by internal or external teams.\n * Evolving the architecture to support future requirements.\n * Proactively supporting other team members and helping them to succeed\n * Challenge the team's processes, looking for ways to improve them.\n\n# KEY ACCOMPLISHMENTS\n * Before my arrival there was a different HW design for each UAV and for each ground station. I unified the designs into one. This meant that 80% of the FW development of one UAV was inherited by the other UAV, thus saving months of development. It also eliminated duplicate designs doing the same thing."
-              }
-            ],
-            "competences": [
-              {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "C++",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Indra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/84335da7-1ca4-484e-91be-621e0b2b8578_logo.png",
-            "alt": "logo.png"
-          },
-          "URL": "https://www.indracompany.com/es"
-        },
-        "roles": [
-          {
-            "name": "Development engineer",
-            "startDate": "2017-05-01",
-            "finishDate": "2017-10-01",
-            "challenges": [
-              {
-                "description": "The main tasks are:\n - HW design with autonomy\n - SW programming for microprocessors\n - Verification\n - Efficient technical troubleshooting\n - Start-up and repair of process control boards\n - Documentation generation\n - Coordination with all the people involved in the project, HW, FW, SW, testing\n - Search for innovation.The main tasks are: - HW design with autonomy - SW programming for microprocessors - Verification - Solve technical problems efficiently - Startup and repair of process control boards - Generation of documentation - Coordination with all people involved in the project, HW, FW, SW, testing - Search for innovation.\nSkills: Teamwork - Python - Algorithms - Implementation of solutions."
-              }
-            ],
-            "competences": [
-              {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "C++",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Indra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/9e1d35d3-4d0c-43e3-9906-4ca6ec9b2808_logo.png",
-            "alt": "logo.png"
-          },
-          "URL": "https://www.indracompany.com/es"
-        },
-        "roles": [
-          {
-            "name": "Junior Engineer",
-            "startDate": "2014-05-01",
-            "finishDate": "2017-05-01",
-            "challenges": [
-              {
-                "description": "Mis principales tareas son:\n - Diseño HW específico\n - Programación de SW para microprocesadores\n - Arranque y reparación de tarjetas de control de procesos\n - Generación de documentación\n - Coordinación con todas las personas involucradas en el proyecto, HW, FW, SW, pruebasMis"
-              }
-            ],
-            "competences": [
-              {
-                "name": "C",
-                "type": "technology"
-              },
-              {
-                "name": "C++",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Indra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/9a1a3932-c7ec-4ab9-afaf-24d8618d6d48_logo.png",
-            "alt": "logo.png"
-          },
-          "URL": "https://www.indracompany.com/es"
-        },
-        "roles": [
-          {
-            "name": "Intern",
-            "startDate": "2013-01-01",
-            "finishDate": "2014-05-01",
-            "challenges": [
-              {
-                "description": "Full-time internship in the HWPP Area (Process and Power Hardware) within the TGP unit (Technology and Product Management) developing the following functions:\n - SW design of microcontrollers (Microchip PIC32 family) for processor start-up and test benches.\n - HW design of test boards\n - Support and system integration tasks within Voice Control Systems projects, national and international scope.\n - Product industrialization support tasks (quality, document control, etc.).\n - Elaboration of technical documentation\n - Project management support within the area"
-              }
-            ],
-            "competences": [
-              {
-                "name": "C",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
-      {
-        "details": {
-          "name": "Subtify",
-          "description": "# Subtify\n\nSubtify transforms any YouTube or Twitch video into a multilingual experience with clear and colorful subtitles that distinguish between different speakers. Discover the ultimate solution for automatic transcriptions and subtitles.\n\n<div>\n    <h2 align=\"center\">\n        <a href=\"https://huggingface.co/spaces/Maximofn/subtify\" target='_blank'>\n        <img src=\"https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue\">\n        </a>\n    </h2>\n</div>\n\n<div style=\"text-align:center;\">\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/Subtify_huggingface_01-scaled.webp\" alt=\"Subtify_huggingface_01\" width=\"1920\">\n    </div>\n    <div>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"2em\" viewBox=\"0 0 384 512\">\n            <style>svg{fill:#d1ac29}</style>\n            <path d=\"M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z\"/>\n        </svg>\n    </div>\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/subtify_huggingface_02.webp\" alt=\"Subtify_huggingface_02\" width=\"1920\">\n    </div>\n</div>\n\n#### You can support my work by making \"☆ Star\" in the repo, inviting me for a coffee Thanks!\n\n<div style=\"float: left;\">\n    <a href=\"https://www.buymeacoffee.com/maximofn\" target=\"_blank\">\n        <img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010\" alt=\"buy me a coffe\">\n    </a>\n</div>\n",
-          "URL": "https://www.maximofn.com/subtify",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/67cff4e7-68e9-4448-94d3-5c3b09fe65a7_subtify_logo-scaled.png",
-            "alt": "subtify_logo-scaled.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-10-01",
-            "competences": [
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2023-11-01"
-          }
-        ]
-      },
       {
         "details": {
           "name": "GPU monitor",
@@ -320,6 +78,31 @@
                 "name": "Bash",
                 "type": "technology"
               },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Subtify",
+          "description": "# Subtify\n\nSubtify transforms any YouTube or Twitch video into a multilingual experience with clear and colorful subtitles that distinguish between different speakers. Discover the ultimate solution for automatic transcriptions and subtitles.\n\n<div>\n    <h2 align=\"center\">\n        <a href=\"https://huggingface.co/spaces/Maximofn/subtify\" target='_blank'>\n        <img src=\"https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue\">\n        </a>\n    </h2>\n</div>\n\n<div style=\"text-align:center;\">\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/Subtify_huggingface_01-scaled.webp\" alt=\"Subtify_huggingface_01\" width=\"1920\">\n    </div>\n    <div>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"2em\" viewBox=\"0 0 384 512\">\n            <style>svg{fill:#d1ac29}</style>\n            <path d=\"M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z\"/>\n        </svg>\n    </div>\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/subtify_huggingface_02.webp\" alt=\"Subtify_huggingface_02\" width=\"1920\">\n    </div>\n</div>\n\n#### You can support my work by making \"☆ Star\" in the repo, inviting me for a coffee Thanks!\n\n<div style=\"float: left;\">\n    <a href=\"https://www.buymeacoffee.com/maximofn\" target=\"_blank\">\n        <img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010\" alt=\"buy me a coffe\">\n    </a>\n</div>\n",
+          "URL": "https://www.maximofn.com/subtify",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/67cff4e7-68e9-4448-94d3-5c3b09fe65a7_subtify_logo-scaled.png",
+            "alt": "subtify_logo-scaled.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-10-01",
+            "competences": [
               {
                 "name": "Python",
                 "type": "technology"
@@ -358,32 +141,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Fail2ban",
-          "description": "🛡️ 💻 Raise your security game! Dive into this tutorial and find out how Fail2Ban helps you stop brute force attacks in their tracks. From installation to configuration, I've got you covered",
-          "URL": "https://maximofn.com/fail2ban/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/4403f1a2-03af-446b-804c-7a76d2ab908d_fail2ban.png",
-            "alt": "fail2ban.png"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2023-09-01",
-        "tags": [
-          "post"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "Bash",
-            "type": "technology"
-          },
-          {
-            "name": "Shell",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Caffeine",
           "description": "🚀 Wake up, Ubuntu! ☕ With Caffeine for Linux, say goodbye to those annoying sleep modes just when you least expect it. Work marathon? Eternal download? Caffeine is here to keep your machine up and running. This cool thing integrates seamlessly with your Ubuntu environment and is a breeze to use. Find out more about how to install and use Caffeine in our post - we promise your computer won't fall asleep while you read!",
           "URL": "https://maximofn.com/caffeine/",
@@ -410,22 +167,26 @@
       },
       {
         "details": {
-          "name": "Conda",
-          "description": "Conda vs Pip - the eternal battle! Find out why Conda wears the champion belt 🥊 and how Mamba is not just a dance, but the turbo your data science projects were waiting for 🚀. Dive with us into this maze of Python packages and find your way out in style 😎 🐍",
-          "URL": "https://maximofn.com/conda/",
+          "name": "Fail2ban",
+          "description": "🛡️ 💻 Raise your security game! Dive into this tutorial and find out how Fail2Ban helps you stop brute force attacks in their tracks. From installation to configuration, I've got you covered",
+          "URL": "https://maximofn.com/fail2ban/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/419643fc-2cca-4cd6-b64e-06ea32b8d583_conda_logo.png",
-            "alt": "conda_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/4403f1a2-03af-446b-804c-7a76d2ab908d_fail2ban.png",
+            "alt": "fail2ban.png"
           }
         },
         "type": "post",
-        "publishingDate": "2023-04-01",
+        "publishingDate": "2023-09-01",
         "tags": [
           "post"
         ],
         "relatedCompetences": [
           {
-            "name": "Python",
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
             "type": "technology"
           }
         ]
@@ -454,16 +215,16 @@
       },
       {
         "details": {
-          "name": "Whisper",
-          "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
-          "URL": "https://maximofn.com/whisper/",
+          "name": "Conda",
+          "description": "Conda vs Pip - the eternal battle! Find out why Conda wears the champion belt 🥊 and how Mamba is not just a dance, but the turbo your data science projects were waiting for 🚀. Dive with us into this maze of Python packages and find your way out in style 😎 🐍",
+          "URL": "https://maximofn.com/conda/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/ef45cd68-a1d9-4667-be75-0052a3a6307c_whisper.jpg",
-            "alt": "whisper.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/419643fc-2cca-4cd6-b64e-06ea32b8d583_conda_logo.png",
+            "alt": "conda_logo.png"
           }
         },
         "type": "post",
-        "publishingDate": "2023-03-01",
+        "publishingDate": "2023-04-01",
         "tags": [
           "post"
         ],
@@ -492,16 +253,16 @@
       },
       {
         "details": {
-          "name": "Blip2",
-          "description": "🤯 Can you imagine that you can add images to a gpt chat and ask questions about them? With Blip2 you can, log in and learn how.",
-          "URL": "https://maximofn.com/blip2/",
+          "name": "Whisper",
+          "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
+          "URL": "https://maximofn.com/whisper/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/05afc6f3-db60-4ef4-a7be-193a7d388857_blip2.png",
-            "alt": "Blip2.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/ef45cd68-a1d9-4667-be75-0052a3a6307c_whisper.jpg",
+            "alt": "whisper.jpg"
           }
         },
         "type": "post",
-        "publishingDate": "2023-02-01",
+        "publishingDate": "2023-03-01",
         "tags": [
           "post"
         ],
@@ -530,6 +291,28 @@
         "relatedCompetences": [
           {
             "name": "Bash",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Blip2",
+          "description": "🤯 Can you imagine that you can add images to a gpt chat and ask questions about them? With Blip2 you can, log in and learn how.",
+          "URL": "https://maximofn.com/blip2/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/05afc6f3-db60-4ef4-a7be-193a7d388857_blip2.png",
+            "alt": "Blip2.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
             "type": "technology"
           }
         ]
