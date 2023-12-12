@@ -268,6 +268,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Embeddings",
+          "description": "En este post exploramos el mundo de los embeddings en la inteligencia artificial, una técnica esencial que transforma datos complejos, como texto, en formatos numéricos comprensibles para los modelos de aprendizaje automático. Descubre cómo los embeddings capturan significados y relaciones en los datos, facilitando el procesamiento del lenguaje, y comprende su impacto en el avance de la tecnología de los LLM",
+          "URL": "https://maximofn.com/embeddings/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/04f999bc-1b10-4d47-8aec-c941bbf1db51_embeddings.png",
+            "alt": "embeddings.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Tokens",
           "description": "You keep hearing that one model has a context window of x tokens? And that another has y tokens? But you have no idea what tokens are? Come in and make yourself comfortable and I'll tell you what tokens are",
           "URL": "https://maximofn.com/tokens/",
