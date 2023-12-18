@@ -268,6 +268,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Measure of similarity between embeddings",
+          "description": "It explores in depth the key methods of measuring similarity in embedding systems: cosine similarity, L2 distance, and scalar product. This article explains each technique, offering an expert perspective on when and how to use them. Learn how to choose the right metrics for your embedding models and improve your recommender systems, natural language processing and more.",
+          "URL": "https://maximofn.com/embeddings-similarity/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/3e871ad5-21ef-4793-a5b4-0358b8d8ff7a_embeddings-similarit.png",
+            "alt": "embeddings-similarity-tiny.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Tokens",
           "description": "You keep hearing that one model has a context window of x tokens? And that another has y tokens? But you have no idea what tokens are? Come in and make yourself comfortable and I'll tell you what tokens are",
           "URL": "https://maximofn.com/tokens/",
