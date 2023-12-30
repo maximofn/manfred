@@ -268,6 +268,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Mixtral-8x7B",
+          "description": "En este post, exploramos Mixtral 8x7B, un modelo de lenguaje de última generación desarrollado por Mistral AI. Este modelo, una mezcla dispersa de expertos (SMoE) con pesos abiertos, se destaca por su capacidad de superar a modelos como Llama 2 70B y GPT-3.5 en la mayoría de los benchmarks, a pesar de tener solo 46.7B de parámetros. Mixtral utiliza una arquitectura única donde un bloque de avance selecciona de un conjunto de expertos para procesar cada token, optimizando así la velocidad y el costo de procesamiento. Además, el post aborda cómo Mixtral 8x7B, con sus capacidades multilingües y su versión Instruct optimizada para seguir instrucciones, representa un avance significativo en el campo de la inteligencia artificial y la programación",
+          "URL": "https://maximofn.com/mixtral-8x7b/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/30/c29c1acd-f5f1-4cba-b3c5-b988c285e22e_mixtral-8x7b-tiny.png",
+            "alt": "Mixtral-8x7B-tiny.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Tokens",
           "description": "You keep hearing that one model has a context window of x tokens? And that another has y tokens? But you have no idea what tokens are? Come in and make yourself comfortable and I'll tell you what tokens are",
           "URL": "https://maximofn.com/tokens/",
