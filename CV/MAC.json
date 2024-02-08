@@ -876,6 +876,14 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
         "name": "PyTorch",
         "type": "technology"
       },
