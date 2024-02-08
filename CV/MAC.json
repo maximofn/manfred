@@ -885,6 +885,7 @@
       }
     ],
     "desiredJobDescription": "I would love a job where I could solve problems by implementing deep learning models.  In addition, there is a good career and training plan",
+    "goodPractices": "# Código sostenible\nIntento seguir los consejos de Carlos Blé para crear código sostenible. Poniendo nombres a las variables y a las funciones que hagan que el código sea autoexplicativo.\nEncapsulando partes del código en funciones de manera que cualquier persona, cuando lea el código, al ver el nombre de la función sepa qué hace el código. Si además quiere ver cómo se ha hecho se puede meter en la función, si no puede seguir leyendo",
     "projects": [
       {
         "name": "Alfred"
