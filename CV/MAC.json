@@ -8,11 +8,11 @@
     "profile": {
       "name": "Maximo",
       "surnames": "(MaximoFN) Fernandez Nuñez",
-      "title": "Artificial intelligence engineer",
-      "description": "+10 años de experiencia 💻\nExperiencia en el desarrollo de sistemas de inteligencia artificial basadas en redes neuronales para el área de visión en el edge 👀. Uso de tecnologías como Pytorch, Deepstream, TensorRT, Python, C, C++, bash, docker, git",
+      "title": "Machine learning engineer",
+      "description": "+10 años de experiencia 💻\n\nComencé mi carrera como ingeniero electrónico en Indra. Pero descubrí la inteligencia artificial y me apasioné con ello.\n\nGracias a estudiar por mi cuenta, en mi siguiente empresa (Arquimea) conseguí trabajar como machine learning engineer, especializado en el área de visión. Trabajo que sigo desarrollando en mi actual empresa (Sener Aeroespacial).\n\nAhora estoy enfocando mi carrera a la parte de IA generativa. Sigo estudiando por mi cuenta y compartiendo mi conocimiento en mi blog personal, donde sobre todo escribo posts sobre LLMs",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/12/19/161c84b3-e534-440f-8bf3-946a7c1358e1_1665190260136.jpeg",
-        "alt": "1665190260136.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/85a099f5-05cc-4465-9fa8-6433965d163a_linkedin-photo-7719.linkedin-photo-7719",
+        "alt": "24/02/08/85a099f5-05cc-4465-9fa8-6433965d163a_linkedin-photo-7719.linkedin-photo-7719"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJGbnJ5g08Qg0RkhIgzQPMFJA)",
@@ -57,134 +57,32 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Sener Aeroespacial",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/ddb85826-2a35-4a7c-90bd-6b7b469cef59_linkedin-photo-7719.linkedin-photo-7719",
-            "alt": "23/12/12/ddb85826-2a35-4a7c-90bd-6b7b469cef59_linkedin-photo-7719.linkedin-photo-7719"
-          }
-        },
-        "roles": [
-          {
-            "name": "Machine learning & software engineer",
-            "startDate": "2022-09-01",
-            "challenges": [
-              {
-                "description": "PRINCIPALES LOGROS\n* Desarrollo de dataset de imágenes sintéticas creadas con stable diffusion para entrenamiento de redes de segmentación\n* Optimización de modelos con TensorRT, reduciendo el tiempo de inferencia y la memoria VRAM.\n* Compartí mis conocimientos con el grupo de aprendizaje profundo, para que pudieran crear juntos mejores soluciones y hacerlo más rápido.\n* Fui mentor de un becario para que pudiera crecer profesionalmente.\n\nRESPONSABILIDADES\n* Crear una arquitectura de redes neuronales para la percepción por visión artificial de vehículos terrestres en entornos no estructurados.\n* Optimizar la máquina en la que se ejecutarán todos los algoritmos tanto de percepción como de guiado.\n* Dirigir el grupo de inteligencia artificial, para realizar tareas de visión de borde, como el reentrenamiento y el procesamiento de datos de línea."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "ARQUIMEA ADS",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/251fe308-834b-42bb-abcb-19da8200be4a_linkedin-photo-7719.linkedin-photo-7719",
-            "alt": "23/12/12/251fe308-834b-42bb-abcb-19da8200be4a_linkedin-photo-7719.linkedin-photo-7719"
-          }
-        },
-        "roles": [
-          {
-            "name": "Research and Development Engineer",
-            "startDate": "2017-10-01",
-            "finishDate": "2022-07-31",
-            "challenges": [
-              {
-                "description": "PRINCIPALES LOGROS\n* Introduje el procesamiento de vídeo en el UAV, haciendo de esta nueva funcionalidad un valor añadido y\ndiferenciándonos de la competencia.\n* Desarrollé los algoritmos de visión de forma que se descartara el uso de dispositivos comerciales\nque cuestan 2.000 euros por unidad. Esto supone un gran ahorro por UAV, por lo que se pueden vender más baratos y\ndestacar en el mercado.\n* Gracias a un prototipo que se geoposiciona sin GPS, una nueva línea de investigación para futuros\nUAV para la guerra tecnológica.\n\nRESPONSABILIDADES\n* Algoritmos de visión por ordenador. Investigar y crear pruebas de concepto e introducir nuevas\ntecnologías al equipo.\n* Electrónica de los UAV: Liderar nuevos diseños tanto HW como FW. Elegir a las personas adecuadas para realizarlos y explicarles los conceptos.\n* Ser mentor de otros para acelerar su crecimiento profesional y animarles a participar.\n* Desafiar los procesos del equipo, buscando formas de mejorarlos."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Indra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/d640d667-23c0-4405-b33b-229a2d6ab5e0_linkedin-photo-7719.linkedin-photo-7719",
-            "alt": "23/12/12/d640d667-23c0-4405-b33b-229a2d6ab5e0_linkedin-photo-7719.linkedin-photo-7719"
-          }
-        },
-        "roles": [
-          {
-            "name": "Development Engineer",
-            "startDate": "2017-05-01",
-            "finishDate": "2017-10-31",
-            "challenges": [
-              {
-                "description": "Las principales tareas son:\n- Diseño HW con autonomía\n- Programación de SW para microprocesadores\n- Verificación\n- Resolver problemas técnicos con eficacia\n- Arranque y reparación de tarjetas de control de procesos\n- Generación de documentación\n- Coordinación con todas las personas involucradas en el proyecto, HW, FW, SW, pruebas\n- Búsqueda de innovación."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Indra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/0efa2dac-f07b-4cbf-8aea-67474fc52a80_linkedin-photo-7719.linkedin-photo-7719",
-            "alt": "23/12/12/0efa2dac-f07b-4cbf-8aea-67474fc52a80_linkedin-photo-7719.linkedin-photo-7719"
-          }
-        },
-        "roles": [
-          {
-            "name": "ingeniero junior",
-            "startDate": "2014-05-01",
-            "finishDate": "2017-05-31",
-            "challenges": [
-              {
-                "description": "Mis principales tareas son:\n- Diseño HW específico\n- Programación de SW para microprocesadores\n- Arranque y reparación de tarjetas de control de procesos\n- Generación de documentación\n- Coordinación con todas las personas involucradas en el proyecto, HW, FW, SW, pruebas"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Indra",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/e6c311bd-1e97-4f56-9b4d-339659be86d7_linkedin-photo-7719.linkedin-photo-7719",
-            "alt": "23/12/12/e6c311bd-1e97-4f56-9b4d-339659be86d7_linkedin-photo-7719.linkedin-photo-7719"
-          }
-        },
-        "roles": [
-          {
-            "name": "Becario",
-            "startDate": "2013-01-01",
-            "finishDate": "2014-05-31",
-            "challenges": [
-              {
-                "description": "Beca a jornada completa en el Área HWPP (Hardware de Proceso y Potencia) dentro de unidad TGP (Tecnología y Gestión de Producto) desarrollando las siguientes funciones:\n· Diseño SW de microcontroladores (familia PIC32 de Microchip) para arranque de procesadoras y bancos de pruebas\n· Diseño HW de tarjetas de pruebas\n· Labores de apoyo e integración de sistema dentro de proyectos de Sistemas de Control de Voz, ámbito nacional e internacional\n· Labores de apoyo a industrialización de producto (calidad, control documental, etc.)\n· Elaboración de documentación técnica\n· Apoyo a gestión de proyectos dentro del área"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Carrefour",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/445bbfed-8b75-4c67-a29a-9fe32293df9f_linkedin-photo-7719.linkedin-photo-7719",
-            "alt": "23/12/12/445bbfed-8b75-4c67-a29a-9fe32293df9f_linkedin-photo-7719.linkedin-photo-7719"
-          }
-        },
-        "roles": [
-          {
-            "name": "Vendedor electronica",
-            "startDate": "2012-12-01",
-            "finishDate": "2013-01-31",
-            "challenges": [
-              {
-                "description": "Venta de electrónica cara al público"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
+      {
+        "details": {
+          "name": "Subtify",
+          "description": "# Subtify\n\nSubtify transforms any YouTube or Twitch video into a multilingual experience with clear and colorful subtitles that distinguish between different speakers. Discover the ultimate solution for automatic transcriptions and subtitles.\n\n<div>\n    <h2 align=\"center\">\n        <a href=\"https://huggingface.co/spaces/Maximofn/subtify\" target='_blank'>\n        <img src=\"https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue\">\n        </a>\n    </h2>\n</div>\n\n<div style=\"text-align:center;\">\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/Subtify_huggingface_01-scaled.webp\" alt=\"Subtify_huggingface_01\" width=\"1920\">\n    </div>\n    <div>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"2em\" viewBox=\"0 0 384 512\">\n            <style>svg{fill:#d1ac29}</style>\n            <path d=\"M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z\"/>\n        </svg>\n    </div>\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/subtify_huggingface_02.webp\" alt=\"Subtify_huggingface_02\" width=\"1920\">\n    </div>\n</div>\n\n#### You can support my work by making \"☆ Star\" in the repo, inviting me for a coffee Thanks!\n\n<div style=\"float: left;\">\n    <a href=\"https://www.buymeacoffee.com/maximofn\" target=\"_blank\">\n        <img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010\" alt=\"buy me a coffe\">\n    </a>\n</div>\n",
+          "URL": "https://www.maximofn.com/subtify",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/67cff4e7-68e9-4448-94d3-5c3b09fe65a7_subtify_logo-scaled.png",
+            "alt": "subtify_logo-scaled.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-10-01",
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-11-01"
+          }
+        ]
+      },
       {
         "details": {
           "name": "GPU monitor",
@@ -205,31 +103,6 @@
                 "name": "Bash",
                 "type": "technology"
               },
-              {
-                "name": "Python",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2023-11-01"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Subtify",
-          "description": "# Subtify\n\nSubtify transforms any YouTube or Twitch video into a multilingual experience with clear and colorful subtitles that distinguish between different speakers. Discover the ultimate solution for automatic transcriptions and subtitles.\n\n<div>\n    <h2 align=\"center\">\n        <a href=\"https://huggingface.co/spaces/Maximofn/subtify\" target='_blank'>\n        <img src=\"https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue\">\n        </a>\n    </h2>\n</div>\n\n<div style=\"text-align:center;\">\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/Subtify_huggingface_01-scaled.webp\" alt=\"Subtify_huggingface_01\" width=\"1920\">\n    </div>\n    <div>\n        <svg xmlns=\"http://www.w3.org/2000/svg\" height=\"2em\" viewBox=\"0 0 384 512\">\n            <style>svg{fill:#d1ac29}</style>\n            <path d=\"M169.4 470.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 370.8 224 64c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 306.7L54.6 265.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z\"/>\n        </svg>\n    </div>\n    <div>\n        <img src=\"https://maximofn.com/wp-content/uploads/2023/11/subtify_huggingface_02.webp\" alt=\"Subtify_huggingface_02\" width=\"1920\">\n    </div>\n</div>\n\n#### You can support my work by making \"☆ Star\" in the repo, inviting me for a coffee Thanks!\n\n<div style=\"float: left;\">\n    <a href=\"https://www.buymeacoffee.com/maximofn\" target=\"_blank\">\n        <img src=\"https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010\" alt=\"buy me a coffe\">\n    </a>\n</div>\n",
-          "URL": "https://www.maximofn.com/subtify",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/67cff4e7-68e9-4448-94d3-5c3b09fe65a7_subtify_logo-scaled.png",
-            "alt": "subtify_logo-scaled.png"
-          }
-        },
-        "type": "openSource",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-10-01",
-            "competences": [
               {
                 "name": "Python",
                 "type": "technology"
@@ -268,82 +141,12 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Tokens",
-          "description": "You keep hearing that one model has a context window of x tokens? And that another has y tokens? But you have no idea what tokens are? Come in and make yourself comfortable and I'll tell you what tokens are",
-          "URL": "https://maximofn.com/tokens/",
+          "name": "Mixtral-8x7B",
+          "description": "En este post, exploramos Mixtral 8x7B, un modelo de lenguaje de última generación desarrollado por Mistral AI. Este modelo, una mezcla dispersa de expertos (SMoE) con pesos abiertos, se destaca por su capacidad de superar a modelos como Llama 2 70B y GPT-3.5 en la mayoría de los benchmarks, a pesar de tener solo 46.7B de parámetros. Mixtral utiliza una arquitectura única donde un bloque de avance selecciona de un conjunto de expertos para procesar cada token, optimizando así la velocidad y el costo de procesamiento. Además, el post aborda cómo Mixtral 8x7B, con sus capacidades multilingües y su versión Instruct optimizada para seguir instrucciones, representa un avance significativo en el campo de la inteligencia artificial y la programación",
+          "URL": "https://maximofn.com/mixtral-8x7b/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/a0b2cbb1-77a2-4504-9e45-1f840fa27d80_tokens.png",
-            "alt": "tokens.png"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2023-12-01",
-        "tags": [
-          "post"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "OpenAI API",
-          "description": "🚀 \"Discover the power of the OpenAI API in this post! 🌟 Learn how to install the OpenAI library ✨ and I'll guide you through the first steps to become an artificial intelligence guru. 🤖 No matter if you're a curious beginner or a coding expert looking for new adventures, this post has everything you need to get started. Get ready to explore the universe of GPT for text generation and DALL-E, image analysis, all with a touch of fun and a lot of innovation! 🎉👩‍💻 Dive into the exciting world of AI and start your journey to unlimited creativity! 🌈💻",
-          "URL": "https://maximofn.com/openai-api/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/8fc575d9-1cfd-4005-869d-243e100d6181_openai-mini.jpg",
-            "alt": "openai-mini.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2023-12-01",
-        "tags": [
-          "post"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "API",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "HTML",
-          "description": "Notes about HTML",
-          "URL": "https://maximofn.com/html/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/089eb373-3341-4cb0-9a89-d473144d92bf_html5.jpg",
-            "alt": "html5.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2023-12-01",
-        "tags": [
-          "post"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Measure of similarity between embeddings",
-          "description": "It explores in depth the key methods of measuring similarity in embedding systems: cosine similarity, L2 distance, and scalar product. This article explains each technique, offering an expert perspective on when and how to use them. Learn how to choose the right metrics for your embedding models and improve your recommender systems, natural language processing and more.",
-          "URL": "https://maximofn.com/embeddings-similarity/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/3e871ad5-21ef-4793-a5b4-0358b8d8ff7a_embeddings-similarit.png",
-            "alt": "embeddings-similarity-tiny.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/30/c29c1acd-f5f1-4cba-b3c5-b988c285e22e_mixtral-8x7b-tiny.png",
+            "alt": "Mixtral-8x7B-tiny.png"
           }
         },
         "type": "post",
@@ -382,12 +185,12 @@
       },
       {
         "details": {
-          "name": "Mixtral-8x7B",
-          "description": "En este post, exploramos Mixtral 8x7B, un modelo de lenguaje de última generación desarrollado por Mistral AI. Este modelo, una mezcla dispersa de expertos (SMoE) con pesos abiertos, se destaca por su capacidad de superar a modelos como Llama 2 70B y GPT-3.5 en la mayoría de los benchmarks, a pesar de tener solo 46.7B de parámetros. Mixtral utiliza una arquitectura única donde un bloque de avance selecciona de un conjunto de expertos para procesar cada token, optimizando así la velocidad y el costo de procesamiento. Además, el post aborda cómo Mixtral 8x7B, con sus capacidades multilingües y su versión Instruct optimizada para seguir instrucciones, representa un avance significativo en el campo de la inteligencia artificial y la programación",
-          "URL": "https://maximofn.com/mixtral-8x7b/",
+          "name": "Measure of similarity between embeddings",
+          "description": "It explores in depth the key methods of measuring similarity in embedding systems: cosine similarity, L2 distance, and scalar product. This article explains each technique, offering an expert perspective on when and how to use them. Learn how to choose the right metrics for your embedding models and improve your recommender systems, natural language processing and more.",
+          "URL": "https://maximofn.com/embeddings-similarity/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/30/c29c1acd-f5f1-4cba-b3c5-b988c285e22e_mixtral-8x7b-tiny.png",
-            "alt": "Mixtral-8x7B-tiny.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/18/3e871ad5-21ef-4793-a5b4-0358b8d8ff7a_embeddings-similarit.png",
+            "alt": "embeddings-similarity-tiny.png"
           }
         },
         "type": "post",
@@ -404,26 +207,70 @@
       },
       {
         "details": {
-          "name": "Caffeine",
-          "description": "🚀 Wake up, Ubuntu! ☕ With Caffeine for Linux, say goodbye to those annoying sleep modes just when you least expect it. Work marathon? Eternal download? Caffeine is here to keep your machine up and running. This cool thing integrates seamlessly with your Ubuntu environment and is a breeze to use. Find out more about how to install and use Caffeine in our post - we promise your computer won't fall asleep while you read!",
-          "URL": "https://maximofn.com/caffeine/",
+          "name": "HTML",
+          "description": "Notes about HTML",
+          "URL": "https://maximofn.com/html/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/9f1c8d8c-f0b4-4d78-b884-f7ce325e77b0_caffeine_shots_so.png",
-            "alt": "caffeine_shots_so.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/089eb373-3341-4cb0-9a89-d473144d92bf_html5.jpg",
+            "alt": "html5.jpg"
           }
         },
         "type": "post",
-        "publishingDate": "2023-09-01",
+        "publishingDate": "2023-12-01",
         "tags": [
           "post"
         ],
         "relatedCompetences": [
           {
-            "name": "Bash",
+            "name": "HTML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "OpenAI API",
+          "description": "🚀 \"Discover the power of the OpenAI API in this post! 🌟 Learn how to install the OpenAI library ✨ and I'll guide you through the first steps to become an artificial intelligence guru. 🤖 No matter if you're a curious beginner or a coding expert looking for new adventures, this post has everything you need to get started. Get ready to explore the universe of GPT for text generation and DALL-E, image analysis, all with a touch of fun and a lot of innovation! 🎉👩‍💻 Dive into the exciting world of AI and start your journey to unlimited creativity! 🌈💻",
+          "URL": "https://maximofn.com/openai-api/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/8fc575d9-1cfd-4005-869d-243e100d6181_openai-mini.jpg",
+            "alt": "openai-mini.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "API",
             "type": "technology"
           },
           {
-            "name": "Shell",
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Tokens",
+          "description": "You keep hearing that one model has a context window of x tokens? And that another has y tokens? But you have no idea what tokens are? Come in and make yourself comfortable and I'll tell you what tokens are",
+          "URL": "https://maximofn.com/tokens/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/12/a0b2cbb1-77a2-4504-9e45-1f840fa27d80_tokens.png",
+            "alt": "tokens.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-12-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
             "type": "technology"
           }
         ]
@@ -456,22 +303,26 @@
       },
       {
         "details": {
-          "name": "GIT",
-          "description": "Have you rewritten that code that took you hours to do? Don't panic! With GIT, say goodbye to \"Oops, I deleted it\". Join me on this adventure and learn how to play with versions like a programming rockstar. 🎸 💾",
-          "URL": "https://maximofn.com/git/",
+          "name": "Caffeine",
+          "description": "🚀 Wake up, Ubuntu! ☕ With Caffeine for Linux, say goodbye to those annoying sleep modes just when you least expect it. Work marathon? Eternal download? Caffeine is here to keep your machine up and running. This cool thing integrates seamlessly with your Ubuntu environment and is a breeze to use. Find out more about how to install and use Caffeine in our post - we promise your computer won't fall asleep while you read!",
+          "URL": "https://maximofn.com/caffeine/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/dfa8bcec-c500-4374-be85-e59228441d29_git.jpg",
-            "alt": "Git.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/9f1c8d8c-f0b4-4d78-b884-f7ce325e77b0_caffeine_shots_so.png",
+            "alt": "caffeine_shots_so.png"
           }
         },
         "type": "post",
-        "publishingDate": "2023-04-01",
+        "publishingDate": "2023-09-01",
         "tags": [
           "post"
         ],
         "relatedCompetences": [
           {
-            "name": "Git",
+            "name": "Bash",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
             "type": "technology"
           }
         ]
@@ -500,6 +351,50 @@
       },
       {
         "details": {
+          "name": "GIT",
+          "description": "Have you rewritten that code that took you hours to do? Don't panic! With GIT, say goodbye to \"Oops, I deleted it\". Join me on this adventure and learn how to play with versions like a programming rockstar. 🎸 💾",
+          "URL": "https://maximofn.com/git/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/dfa8bcec-c500-4374-be85-e59228441d29_git.jpg",
+            "alt": "Git.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-04-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Whisper",
+          "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
+          "URL": "https://maximofn.com/whisper/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/ef45cd68-a1d9-4667-be75-0052a3a6307c_whisper.jpg",
+            "alt": "whisper.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-03-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "SSH",
           "description": "Connecting securely is essential in today's digital world. Discover how SSH allows you to establish encrypted communications between your machine and remote servers. From basic concepts to advanced tips, dive into this comprehensive tutorial and master the craft of SSH. 🔐 💼",
           "URL": "https://maximofn.com/ssh/",
@@ -516,16 +411,16 @@
       },
       {
         "details": {
-          "name": "Whisper",
-          "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
-          "URL": "https://maximofn.com/whisper/",
+          "name": "Blip2",
+          "description": "🤯 Can you imagine that you can add images to a gpt chat and ask questions about them? With Blip2 you can, log in and learn how.",
+          "URL": "https://maximofn.com/blip2/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/ef45cd68-a1d9-4667-be75-0052a3a6307c_whisper.jpg",
-            "alt": "whisper.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/05afc6f3-db60-4ef4-a7be-193a7d388857_blip2.png",
+            "alt": "Blip2.png"
           }
         },
         "type": "post",
-        "publishingDate": "2023-03-01",
+        "publishingDate": "2023-02-01",
         "tags": [
           "post"
         ],
@@ -554,28 +449,6 @@
         "relatedCompetences": [
           {
             "name": "Bash",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Blip2",
-          "description": "🤯 Can you imagine that you can add images to a gpt chat and ask questions about them? With Blip2 you can, log in and learn how.",
-          "URL": "https://maximofn.com/blip2/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/05afc6f3-db60-4ef4-a7be-193a7d388857_blip2.png",
-            "alt": "Blip2.png"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2023-02-01",
-        "tags": [
-          "post"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "Python",
             "type": "technology"
           }
         ]
