@@ -777,6 +777,20 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "EF SET English level Certiﬁcate (56/100) - B2 equivalent",
+        "startDate": "2023-01-01",
+        "institution": {
+          "name": "EF SET",
+          "URL": "https://www.efset.org/cert/WY9NZm",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/08/e038521b-ba6c-4038-82a5-d5664b615405_efset.png",
+            "alt": "EFset.png"
+          }
+        }
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Electronic engineering",
