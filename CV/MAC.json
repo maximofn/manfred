@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "CSS",
+          "description": "CSS, or Cascading Style Sheets, is a fundamental technology in web design that allows developers and designers to style and present HTML documents in a sophisticated and efficient manner. Through CSS, we can control layout, colors, fonts, and much more, enabling the creation of rich and visually appealing user experiences. This post explores the basics of CSS, from selectors and properties to the box model, offering a detailed guide for those looking to get started or improve their web design skills. With practical examples and helpful tips, it demonstrates how CSS makes it easy to separate content from presentation, improving the accessibility and maintainability of web projects",
+          "URL": "https://maximofn.com/css/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/10/6f36835a-81e2-4a72-aa2f-285d52ae85bf_css3.png",
+            "alt": "CSS3.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Mixtral-8x7B",
           "description": "En este post, exploramos Mixtral 8x7B, un modelo de lenguaje de última generación desarrollado por Mistral AI. Este modelo, una mezcla dispersa de expertos (SMoE) con pesos abiertos, se destaca por su capacidad de superar a modelos como Llama 2 70B y GPT-3.5 en la mayoría de los benchmarks, a pesar de tener solo 46.7B de parámetros. Mixtral utiliza una arquitectura única donde un bloque de avance selecciona de un conjunto de expertos para procesar cada token, optimizando así la velocidad y el costo de procesamiento. Además, el post aborda cómo Mixtral 8x7B, con sus capacidades multilingües y su versión Instruct optimizada para seguir instrucciones, representa un avance significativo en el campo de la inteligencia artificial y la programación",
           "URL": "https://maximofn.com/mixtral-8x7b/",
