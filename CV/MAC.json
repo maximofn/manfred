@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Regular expressions",
+          "description": "It explores the power and precision of regular expressions, essential tools in programming that allow describing patterns in text strings for efficient search, extraction and manipulation. This post unravels from the fundamentals to advanced regex techniques, offering a practical guide with clear examples to master their use in data analysis and management. Get ready to transform your approach to text processing, unlocking new possibilities in your development projects",
+          "URL": "https://maximofn.com/regular-expressions/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/10/975a5ec4-ad3e-46db-9601-143a725fb4bf_regular-expresions.png",
+            "alt": "regular-expresions.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "CSS",
           "description": "CSS, or Cascading Style Sheets, is a fundamental technology in web design that allows developers and designers to style and present HTML documents in a sophisticated and efficient manner. Through CSS, we can control layout, colors, fonts, and much more, enabling the creation of rich and visually appealing user experiences. This post explores the basics of CSS, from selectors and properties to the box model, offering a detailed guide for those looking to get started or improve their web design skills. With practical examples and helpful tips, it demonstrates how CSS makes it easy to separate content from presentation, improving the accessibility and maintainability of web projects",
           "URL": "https://maximofn.com/css/",
