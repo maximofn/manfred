@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Vector Database",
+          "description": "Discover how ChromaDB redefines vector data search and management for AI applications, with ultra-fast and accurate similarity searches in high-dimensional spaces",
+          "URL": "https://maximofn.com/chroma/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/18/69aaf502-a9cc-48af-9ea4-037fd44c8cb9_chromadb_dalle3-(1).png",
+            "alt": "chromadb_dalle3 (1).png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "CSS",
           "description": "CSS, or Cascading Style Sheets, is a fundamental technology in web design that allows developers and designers to style and present HTML documents in a sophisticated and efficient manner. Through CSS, we can control layout, colors, fonts, and much more, enabling the creation of rich and visually appealing user experiences. This post explores the basics of CSS, from selectors and properties to the box model, offering a detailed guide for those looking to get started or improve their web design skills. With practical examples and helpful tips, it demonstrates how CSS makes it easy to separate content from presentation, improving the accessibility and maintainability of web projects",
           "URL": "https://maximofn.com/css/",
