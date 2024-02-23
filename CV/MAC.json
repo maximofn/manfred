@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Regular expressions",
+          "description": "It explores the power and precision of regular expressions, essential tools in programming that allow describing patterns in text strings for efficient search, extraction and manipulation. This post unravels from the fundamentals to advanced regex techniques, offering a practical guide with clear examples to master their use in data analysis and management. Get ready to transform your approach to text processing, unlocking new possibilities in your development projects",
+          "URL": "https://maximofn.com/regular-expressions/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/10/975a5ec4-ad3e-46db-9601-143a725fb4bf_regular-expresions.png",
+            "alt": "regular-expresions.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Vector Database",
           "description": "Discover how ChromaDB redefines vector data search and management for AI applications, with ultra-fast and accurate similarity searches in high-dimensional spaces",
           "URL": "https://maximofn.com/chroma/",
@@ -285,28 +307,6 @@
         "relatedCompetences": [
           {
             "name": "CSS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Regular expressions",
-          "description": "It explores the power and precision of regular expressions, essential tools in programming that allow describing patterns in text strings for efficient search, extraction and manipulation. This post unravels from the fundamentals to advanced regex techniques, offering a practical guide with clear examples to master their use in data analysis and management. Get ready to transform your approach to text processing, unlocking new possibilities in your development projects",
-          "URL": "https://maximofn.com/regular-expressions/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/10/975a5ec4-ad3e-46db-9601-143a725fb4bf_regular-expresions.png",
-            "alt": "regular-expresions.png"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2024-02-01",
-        "tags": [
-          "post"
-        ],
-        "relatedCompetences": [
-          {
-            "name": "Python",
             "type": "technology"
           }
         ]
@@ -545,6 +545,22 @@
       },
       {
         "details": {
+          "name": "SSH",
+          "description": "Connecting securely is essential in today's digital world. Discover how SSH allows you to establish encrypted communications between your machine and remote servers. From basic concepts to advanced tips, dive into this comprehensive tutorial and master the craft of SSH. 🔐 💼",
+          "URL": "https://maximofn.com/ssh/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/2a47630a-ef48-4000-9c62-e25dce01f5ef_ssh.jpg",
+            "alt": "SSH.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2023-03-01",
+        "tags": [
+          "post"
+        ]
+      },
+      {
+        "details": {
           "name": "Whisper",
           "description": "👂 You don't get to gossip what the first one says? With whisper you can not only do it, but also translate it if you want. Log in and learn how",
           "URL": "https://maximofn.com/whisper/",
@@ -563,22 +579,6 @@
             "name": "Python",
             "type": "technology"
           }
-        ]
-      },
-      {
-        "details": {
-          "name": "SSH",
-          "description": "Connecting securely is essential in today's digital world. Discover how SSH allows you to establish encrypted communications between your machine and remote servers. From basic concepts to advanced tips, dive into this comprehensive tutorial and master the craft of SSH. 🔐 💼",
-          "URL": "https://maximofn.com/ssh/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/30/2a47630a-ef48-4000-9c62-e25dce01f5ef_ssh.jpg",
-            "alt": "SSH.jpg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2023-03-01",
-        "tags": [
-          "post"
         ]
       },
       {
