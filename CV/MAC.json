@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Transformers - from top to the bottom",
+          "description": "Discover transformers 🚀. Learn the architecture behind all the new language models. Don't ask an AI, come in and learn.",
+          "URL": "https://maximofn.com/transformers/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/23/ff6b6d43-1ec5-422d-a1dc-28253ba7a439_transformer---leadsp.jpeg",
+            "alt": "Transformer - leadspace.jpeg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Regular expressions",
           "description": "It explores the power and precision of regular expressions, essential tools in programming that allow describing patterns in text strings for efficient search, extraction and manipulation. This post unravels from the fundamentals to advanced regex techniques, offering a practical guide with clear examples to master their use in data analysis and management. Get ready to transform your approach to text processing, unlocking new possibilities in your development projects",
           "URL": "https://maximofn.com/regular-expressions/",
