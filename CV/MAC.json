@@ -247,6 +247,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Hugging Face Tokenizers",
+          "description": "📄 ➡️ 🔤 Explore the power of the Hugging Face Tokenizers library for natural language processing in AI. Discover how this essential tool transforms text into structured data, optimizing AI model training with practical examples and Python code. Dive into the future of NLP with our expert guide.",
+          "URL": "https://maximofn.com/hugging-face-tokenizers/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/27/1bca2b8f-9990-42ca-97ec-a6b19248c788_hugging-face's-token.png",
+            "alt": "Hugging Face's tokenizers library.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Regular expressions",
           "description": "It explores the power and precision of regular expressions, essential tools in programming that allow describing patterns in text strings for efficient search, extraction and manipulation. This post unravels from the fundamentals to advanced regex techniques, offering a practical guide with clear examples to master their use in data analysis and management. Get ready to transform your approach to text processing, unlocking new possibilities in your development projects",
           "URL": "https://maximofn.com/regular-expressions/",
