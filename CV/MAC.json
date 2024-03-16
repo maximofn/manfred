@@ -247,22 +247,22 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Hugging Face Tokenizers",
-          "description": "📄 ➡️ 🔤 Explore the power of the Hugging Face Tokenizers library for natural language processing in AI. Discover how this essential tool transforms text into structured data, optimizing AI model training with practical examples and Python code. Dive into the future of NLP with our expert guide.",
-          "URL": "https://maximofn.com/hugging-face-tokenizers/",
+          "name": "git-sim",
+          "description": "If you are afraid 😱 to use git commands, come in and learn how to test them easily and graphically with git-sim 😊\n",
+          "URL": "https://maximofn.com/git-sim/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/16/15670bbe-560a-4ff0-9042-b7d2035df4fb_hugging-face's-token.png",
-            "alt": "Hugging Face's tokenizers library.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/16/246e9890-4855-49a1-b38a-e15df018fcbb_git-sim-shot.png",
+            "alt": "git-sim-shot.png"
           }
         },
         "type": "post",
-        "publishingDate": "2024-02-01",
+        "publishingDate": "2024-03-01",
         "tags": [
           "post"
         ],
         "relatedCompetences": [
           {
-            "name": "Python",
+            "name": "Git",
             "type": "technology"
           }
         ]
@@ -287,6 +287,28 @@
             "name": "Hugging Face",
             "type": "technology"
           },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Hugging Face Tokenizers",
+          "description": "📄 ➡️ 🔤 Explore the power of the Hugging Face Tokenizers library for natural language processing in AI. Discover how this essential tool transforms text into structured data, optimizing AI model training with practical examples and Python code. Dive into the future of NLP with our expert guide.",
+          "URL": "https://maximofn.com/hugging-face-tokenizers/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/16/15670bbe-560a-4ff0-9042-b7d2035df4fb_hugging-face's-token.png",
+            "alt": "Hugging Face's tokenizers library.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-02-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
           {
             "name": "Python",
             "type": "technology"
