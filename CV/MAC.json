@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Hugging Face Transformers",
+          "description": "🤖 Transform your world with Hugging Face Transformers! 🚀 Ready to make magic with natural language? From super-fast techniques with pipeline 🌪️ to ninja tricks with AutoModel 🥷, this post takes you by the hand on an epic adventure into the NLP universe. Explore how to generate text that surprises, train models that dazzle, and share your creations on the Hugging Face Hub like a pro. Get ready to code and laugh, because the future of NLP is now and it's hilarious! 😂",
+          "URL": "https://maximofn.com/hugging-face-transformers/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/15/272dbc39-4229-4c5c-b371-9f1da1d72066_huggingface-transfor.png",
+            "alt": "HuggingFace Transformers.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-04-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "git-sim",
           "description": "If you are afraid 😱 to use git commands, come in and learn how to test them easily and graphically with git-sim 😊\n",
           "URL": "https://maximofn.com/git-sim/",
