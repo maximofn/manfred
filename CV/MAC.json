@@ -247,6 +247,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Hugging Face Datasets",
+          "description": "Wake up, AI developer! ☕️ Stop wasting your time loading and preprocessing data like a slave 🙅‍♂️ and discover Hugging Face's datasets library, the solution to all your NLP problems (and some of your life problems, too). With datasets, you can access a collection of high-quality datasets that will make you forget you ever had to deal with CSVs and pandas 🐼 So don't lag behind, upgrade your skills and enter the 21st century of AI with datasets! 💥",
+          "URL": "https://maximofn.com/hugging-face-datasets/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/24/504d98c2-b7b6-44ca-b3e9-9aa77977c9fd_datasets_logo.png",
+            "alt": "datasets_logo.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-04-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hugging Face Transformers",
           "description": "🤖 Transform your world with Hugging Face Transformers! 🚀 Ready to make magic with natural language? From super-fast techniques with pipeline 🌪️ to ninja tricks with AutoModel 🥷, this post takes you by the hand on an epic adventure into the NLP universe. Explore how to generate text that surprises, train models that dazzle, and share your creations on the Hugging Face Hub like a pro. Get ready to code and laugh, because the future of NLP is now and it's hilarious! 😂",
           "URL": "https://maximofn.com/hugging-face-transformers/",
