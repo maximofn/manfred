@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Hugging Face Evaluate",
+          "description": "Forget sleepless nights calculating metrics and losing your mind with evaluate for your NLP models! 😩 Hugging Face's evaluate library is the answer to your prayers, allowing you to evaluate the performance of your models easily and quickly 🚀. With evaluate, you can say goodbye to manual calculations and hello to full automation 🤗 leaving you more time to focus on what really matters 🤔: improving your models and revolutionizing the world of AI 💻",
+          "URL": "https://maximofn.com/hugging-face-evaluate/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/29/8e58b64b-2b93-4590-9ada-d9cea51c07d4_evaluate_logo_mockup.png",
+            "alt": "evaluate_logo_mockup.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-04-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hugging Face Datasets",
           "description": "Wake up, AI developer! ☕️ Stop wasting your time loading and preprocessing data like a slave 🙅‍♂️ and discover Hugging Face's datasets library, the solution to all your NLP problems (and some of your life problems, too). With datasets, you can access a collection of high-quality datasets that will make you forget you ever had to deal with CSVs and pandas 🐼 So don't lag behind, upgrade your skills and enter the 21st century of AI with datasets! 💥",
           "URL": "https://maximofn.com/hugging-face-datasets/",
