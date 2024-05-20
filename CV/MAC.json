@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Hugging Face Accelerate",
+          "description": "🚀 Parallelizing AI models has never been easier! 🤩 With Accelerate, you can say goodbye to endless training times ⏰ and hello to efficiency 💻. With just a few lines of code, you can automatically distribute the training of your models across multiple GPUs or CPUs, which can drastically reduce training times ⏱️, improve efficiency 💸 and don't need huge GPU memories 🙅‍♂️. And best of all: you can also parallelize inference! 🤯 This means you can process LLMs in real time, without your model getting stuck. So what are you waiting for, speed up your training with Accelerate!",
+          "URL": "https://maximofn.com/hugging-face-accelerate/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/20/fb49f5ae-194e-447d-b837-e7381d365dbb_huggingface_accelera.png",
+            "alt": "huggingface_accelerate_mockup.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-05-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hugging Face Evaluate",
           "description": "Forget sleepless nights calculating metrics and losing your mind with evaluate for your NLP models! 😩 Hugging Face's evaluate library is the answer to your prayers, allowing you to evaluate the performance of your models easily and quickly 🚀. With evaluate, you can say goodbye to manual calculations and hello to full automation 🤗 leaving you more time to focus on what really matters 🤔: improving your models and revolutionizing the world of AI 💻",
           "URL": "https://maximofn.com/hugging-face-evaluate/",
