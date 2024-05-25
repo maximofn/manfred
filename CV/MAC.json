@@ -247,6 +247,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Ollama",
+          "description": "https://maximofn.com/en/ollama-2/",
+          "URL": "https://maximofn.com/ollama/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/25/288e3262-b934-4e40-aeae-a9efdc784a36_ollama_shot.png",
+            "alt": "ollama_shot.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-05-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Shell",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hugging Face Accelerate",
           "description": "🚀 Parallelizing AI models has never been easier! 🤩 With Accelerate, you can say goodbye to endless training times ⏰ and hello to efficiency 💻. With just a few lines of code, you can automatically distribute the training of your models across multiple GPUs or CPUs, which can drastically reduce training times ⏱️, improve efficiency 💸 and don't need huge GPU memories 🙅‍♂️. And best of all: you can also parallelize inference! 🤯 This means you can process LLMs in real time, without your model getting stuck. So what are you waiting for, speed up your training with Accelerate!",
           "URL": "https://maximofn.com/hugging-face-accelerate/",
