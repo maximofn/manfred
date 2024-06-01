@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Hugging Face Optimun",
+          "description": "Attention, slow PyTorch models! 🐌 Optimun, the Hugging Face library, comes to the rescue to speed up your workouts and inferences. With Optimun, you can forget about speed issues and enjoy more speed and efficiency 🕒️. And best of all, it's PyTorch compatible - go on, give your models a boost with Optimun! 💻",
+          "URL": "https://maximofn.com/hugging-face-optimun/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/01/f88a29ce-8e61-48a8-b950-987b4d8f211d_huggingface_optimun.png",
+            "alt": "huggingface_optimun.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-06-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Ollama",
           "description": "https://maximofn.com/en/ollama-2/",
           "URL": "https://maximofn.com/ollama/",
