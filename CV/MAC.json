@@ -247,6 +247,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "GPT1 - Improving Language Understanding by Generative Pre-Training",
+          "description": "Unlock the power of language!!!! 💥 In my last post, I take you by the hand through the GPT-1 paper, explaining in a clear and concise way how this pioneer model in natural language processing works. And not only that! I also show you how to fine-tuning the model so you can adapt it to your specific needs 📊 Don't miss the opportunity to learn about one of the most influential models in history! 🚀 Read my post and find out how you can improve your artificial intelligence skills! 📄",
+          "URL": "https://maximofn.com/gpt1/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/3b8af1d8-bb81-47f0-bc29-b594d6a17bf1_gpt1_thumnail.png",
+            "alt": "GPT1_thumnail.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-06-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hugging Face Optimun",
           "description": "Attention, slow PyTorch models! 🐌 Optimun, the Hugging Face library, comes to the rescue to speed up your workouts and inferences. With Optimun, you can forget about speed issues and enjoy more speed and efficiency 🕒️. And best of all, it's PyTorch compatible - go on, give your models a boost with Optimun! 💻",
           "URL": "https://maximofn.com/hugging-face-optimun/",
