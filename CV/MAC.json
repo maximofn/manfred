@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "BPE tokenizer",
+          "description": "🔍 Discover the secret of tokenization! 🔑 I reveal you the mysteries of BPE (Byte Pair Encoding) tokenization, one of the most popular and effective methods to split text into tokens. Learn how to to tokenize with BPE! 💻 Read my post and discover the tips and tricks to master tokenization with BPE! 📄",
+          "URL": "https://maximofn.com/bpe/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/12/0336e46b-7c4c-40a9-8504-315fc469394f_bpe_tokenizer_thumna.png",
+            "alt": "bpe_tokenizer_thumnail.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-06-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hugging Face Optimun",
           "description": "Attention, slow PyTorch models! 🐌 Optimun, the Hugging Face library, comes to the rescue to speed up your workouts and inferences. With Optimun, you can forget about speed issues and enjoy more speed and efficiency 🕒️. And best of all, it's PyTorch compatible - go on, give your models a boost with Optimun! 💻",
           "URL": "https://maximofn.com/hugging-face-optimun/",
