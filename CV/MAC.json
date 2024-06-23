@@ -247,6 +247,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Florence-2",
+          "description": "Attention everyone! 🚨 We have a new king in town! 👑 Florence-2, the multimodal model that is revolutionizing the artificial intelligence game. 🤯 With only 200M parameters in its base version (or 700M in its large version, for those who want with everything 💥), this model is sweeping the benchmarks, beating models with 10 and 100 times more parameters. 🤯 It's like having a Swiss army knife in your AI toolkit! 🗡️ Modify the prompt and voila, Florence-2 adapts to any task you need. 🔧 In short, Florence-2 is the new SOTA (State-Of-The-Art) model in MLLMs (Multimodal Language Models) and you can't miss it. 🚀 Let's see what other surprises this beast has in store! 🤔",
+          "URL": "https://maximofn.com/florence-2/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/0ab981e0-38de-4381-bdf0-8a758bf97032_florence-2_thumnail_.jpg",
+            "alt": "Florence-2_thumnail_fonts.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-06-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Hugging Face Optimun",
           "description": "Attention, slow PyTorch models! 🐌 Optimun, the Hugging Face library, comes to the rescue to speed up your workouts and inferences. With Optimun, you can forget about speed issues and enjoy more speed and efficiency 🕒️. And best of all, it's PyTorch compatible - go on, give your models a boost with Optimun! 💻",
           "URL": "https://maximofn.com/hugging-face-optimun/",
