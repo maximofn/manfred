@@ -247,16 +247,16 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Florence-2",
-          "description": "Attention everyone! 🚨 We have a new king in town! 👑 Florence-2, the multimodal model that is revolutionizing the artificial intelligence game. 🤯 With only 200M parameters in its base version (or 700M in its large version, for those who want with everything 💥), this model is sweeping the benchmarks, beating models with 10 and 100 times more parameters. 🤯 It's like having a Swiss army knife in your AI toolkit! 🗡️ Modify the prompt and voila, Florence-2 adapts to any task you need. 🔧 In short, Florence-2 is the new SOTA (State-Of-The-Art) model in MLLMs (Multimodal Language Models) and you can't miss it. 🚀 Let's see what other surprises this beast has in store! 🤔",
-          "URL": "https://maximofn.com/florence-2/",
+          "name": "He escrito un post sobre el último modelo open de OpenAI. Si quieres ver cómo es el modelo, cómo lo entrenaron y cómo hacerle fine tuning entra y lee",
+          "description": "Unlock the power of text generation with GPT-2, the latest open model from OpenAI 💸! 🚀 In this post, I take you by the hand through the architecture behind this model, and show you how to fine-tune it 😜, code included. Read more and find out how GPT-2 can make your words more interesting than a human's 💬 (or at least, than a bored human's) 😉",
+          "URL": "https://maximofn.com/gpt2/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/0ab981e0-38de-4381-bdf0-8a758bf97032_florence-2_thumnail_.jpg",
-            "alt": "Florence-2_thumnail_fonts.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/10/a915a505-7329-4500-bf5d-8e30249be24c_gpt2.png",
+            "alt": "GPT2.png"
           }
         },
         "type": "post",
-        "publishingDate": "2024-06-01",
+        "publishingDate": "2024-07-01",
         "tags": [
           "post"
         ],
@@ -289,6 +289,32 @@
         "relatedCompetences": [
           {
             "name": "Hugging Face",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Florence-2",
+          "description": "Attention everyone! 🚨 We have a new king in town! 👑 Florence-2, the multimodal model that is revolutionizing the artificial intelligence game. 🤯 With only 200M parameters in its base version (or 700M in its large version, for those who want with everything 💥), this model is sweeping the benchmarks, beating models with 10 and 100 times more parameters. 🤯 It's like having a Swiss army knife in your AI toolkit! 🗡️ Modify the prompt and voila, Florence-2 adapts to any task you need. 🔧 In short, Florence-2 is the new SOTA (State-Of-The-Art) model in MLLMs (Multimodal Language Models) and you can't miss it. 🚀 Let's see what other surprises this beast has in store! 🤔",
+          "URL": "https://maximofn.com/florence-2/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/06/23/0ab981e0-38de-4381-bdf0-8a758bf97032_florence-2_thumnail_.jpg",
+            "alt": "Florence-2_thumnail_fonts.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-06-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
             "type": "technology"
           }
         ]
