@@ -269,7 +269,7 @@
       },
       {
         "details": {
-          "name": "He escrito un post sobre el último modelo open de OpenAI. Si quieres ver cómo es el modelo, cómo lo entrenaron y cómo hacerle fine tuning entra y lee",
+          "name": "GPT-2 – Language Models are Unsupervised Multitask Learners",
           "description": "Unlock the power of text generation with GPT-2, the latest open model from OpenAI 💸! 🚀 In this post, I take you by the hand through the architecture behind this model, and show you how to fine-tune it 😜, code included. Read more and find out how GPT-2 can make your words more interesting than a human's 💬 (or at least, than a bored human's) 😉",
           "URL": "https://maximofn.com/gpt2/",
           "image": {
