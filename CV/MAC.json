@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Fine Tuning SMLs",
+          "description": "😂 \"Tuning small language models? Please, you're not 'tuning', you're just desperately trying to get some sense out of a model that's about as useful as a chocolate teapot 🍫🚽. But hey, who doesn't love a good challenge? Go ahead, waste your GPU hours, and maybe, just maybe, you'll get a model that can distinguish between 'hello' and 'goodbye' 🤖. Good luck, and don't say I didn't warn you 😜",
+          "URL": "https://maximofn.com/fine-tuning-sml/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/14/dd581064-f6b8-4e89-bd18-d0a50c38941c_slm_thumnail.jpg",
+            "alt": "SLM_thumnail.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "He escrito un post sobre el último modelo open de OpenAI. Si quieres ver cómo es el modelo, cómo lo entrenaron y cómo hacerle fine tuning entra y lee",
           "description": "Unlock the power of text generation with GPT-2, the latest open model from OpenAI 💸! 🚀 In this post, I take you by the hand through the architecture behind this model, and show you how to fine-tune it 😜, code included. Read more and find out how GPT-2 can make your words more interesting than a human's 💬 (or at least, than a bored human's) 😉",
           "URL": "https://maximofn.com/gpt2/",
