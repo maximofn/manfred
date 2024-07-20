@@ -247,6 +247,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "LoRA – low rank adaptation of large language models",
+          "description": "Get ready to take your model adaptation to the next level with LoRA! 🚀 This low-rank adaptation technique is like a superhero cape for your neural networks - it helps them learn new tricks without forgetting old ones 🤯. And the best thing about it? You can implement it in just a few lines of PyTorch code 💻 And if you're like me, a poor GPU guy struggling with limited resources 💸, LoRA is like a godsend: it lets you adapt your models without training them from scratch or spending a fortune on hardware 🙏 Check out the post for a step-by-step guide and a practical example!",
+          "URL": "https://maximofn.com/lora/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/20/289f74e6-dd91-402e-90d5-76102a2b1e0c_lora_thumbnail_en.jpg",
+            "alt": "LoRA_thumbnail_EN.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Fine tuning Florence-2",
           "description": "You've already got Florence-2 on your radar, but now you want to take it to the next level! 🚀 It's time for fine-tuning! 💻 In this post, I'll walk you step-by-step through the process of adapting this multimodal model to your specific needs. 📊 From preparing your data to setting up hyperparameters, I'll show you how to get the most out of Florence-2. 💡 With PyTorch and Python, we'll make this model fit your needs and become your trusted tool for solving language and vision tasks. 📈 So get ready to take your model to the next level and make Florence-2 shine in all its glory! ✨",
           "URL": "https://maximofn.com/fine-tuning-florence-2/",
