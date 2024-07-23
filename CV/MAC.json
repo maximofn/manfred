@@ -247,6 +247,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "llm.int8() - 8-bit Matrix Multiplication for Transformers at Scale",
+          "description": "Get ready to save space and speed up your models! 💥 In this post, I'm going to explore the llm.int8() method, a quantization technique that allows you to reduce the size of your machine learning models without sacrificing too much accuracy. 📊 That means you'll be able to train and deploy larger and more complex models in less space and with lower resource consumption! 💻 Let's see how to use llm.int8() with transformers to quantize a model and make it more efficient, without losing the essence of its artificial intelligence. 🤖",
+          "URL": "https://maximofn.com/llm-int8/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/23/0470ddf2-559e-4cb5-a5a2-dd7b857f7b6d_llm.png",
+            "alt": "llm.int8()-thumbnail.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "LoRA – low rank adaptation of large language models",
           "description": "Get ready to take your model adaptation to the next level with LoRA! 🚀 This low-rank adaptation technique is like a superhero cape for your neural networks - it helps them learn new tricks without forgetting old ones 🤯. And the best thing about it? You can implement it in just a few lines of PyTorch code 💻 And if you're like me, a poor GPU guy struggling with limited resources 💸, LoRA is like a godsend: it lets you adapt your models without training them from scratch or spending a fortune on hardware 🙏 Check out the post for a step-by-step guide and a practical example!",
           "URL": "https://maximofn.com/lora/",
