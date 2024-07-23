@@ -247,6 +247,22 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "LLMs quantization",
+          "description": "Imagine having a giant language model that can answer any question, from the capital of France to the perfect brownie recipe! 🍞️🇫🇷 But what happens when that model has to fit on a mobile device? 📱 That's where quantization comes in! 🎉 This technique allows us to reduce the size of models without sacrificing their accuracy, which means we can enjoy artificial intelligence on our mobile devices without the need for a supercomputer. 💻 It's like compressing an elephant into a shoebox, but without crushing the elephant! 🐘😂",
+          "URL": "https://maximofn.com/llms-quantization/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/23/ac17f0de-0a25-4ae3-b397-d360bc7f5ff1_quantization-thumbna.png",
+            "alt": "quantization-thumbnail.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "post"
+        ]
+      },
+      {
+        "details": {
           "name": "llm.int8() - 8-bit Matrix Multiplication for Transformers at Scale",
           "description": "Get ready to save space and speed up your models! 💥 In this post, I'm going to explore the llm.int8() method, a quantization technique that allows you to reduce the size of your machine learning models without sacrificing too much accuracy. 📊 That means you'll be able to train and deploy larger and more complex models in less space and with lower resource consumption! 💻 Let's see how to use llm.int8() with transformers to quantize a model and make it more efficient, without losing the essence of its artificial intelligence. 🤖",
           "URL": "https://maximofn.com/llm-int8/",
