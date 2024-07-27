@@ -247,6 +247,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+          "description": "Attention developers! 🚨 Do you have a language model that is too big and heavy for your application? 🤯 Don't worry, GPTQ is here to help you! 🤖 This quantization algorithm is like a wizard that makes unnecessary bits and bytes disappear, reducing the size of your model without losing too much precision. 🎩 It's like compressing a file without losing quality - it's a way to make your models more efficient and faster! 🚀",
+          "URL": "https://maximofn.com/gptq/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/27/de0af16a-b5c9-4c0e-9d4f-3d729adf2001_gptq-thumbnail-shot.png",
+            "alt": "GPTQ-thumbnail-shot.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "LLMs quantization",
           "description": "Imagine having a giant language model that can answer any question, from the capital of France to the perfect brownie recipe! 🍞️🇫🇷 But what happens when that model has to fit on a mobile device? 📱 That's where quantization comes in! 🎉 This technique allows us to reduce the size of models without sacrificing their accuracy, which means we can enjoy artificial intelligence on our mobile devices without the need for a supercomputer. 💻 It's like compressing an elephant into a shoebox, but without crushing the elephant! 🐘😂",
           "URL": "https://maximofn.com/llms-quantization/",
