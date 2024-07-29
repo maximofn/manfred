@@ -247,12 +247,12 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
-          "description": "Attention developers! 🚨 Do you have a language model that is too big and heavy for your application? 🤯 Don't worry, GPTQ is here to help you! 🤖 This quantization algorithm is like a wizard that makes unnecessary bits and bytes disappear, reducing the size of your model without losing too much precision. 🎩 It's like compressing a file without losing quality - it's a way to make your models more efficient and faster! 🚀",
-          "URL": "https://maximofn.com/gptq/",
+          "name": "QLoRA: Efficient Finetuning of Quantized LLMs",
+          "description": "Hello everyone! 🤗 Today we are going to talk about QLoRA, the technique that will allow you to make your language models more efficient and faster ⏱️. But how does it do it? 🤔 Well, first it uses quantization to reduce the size of the model weights, which saves memory and speed 📈. Then, it applies LoRA (Low-Rank Adaptation), which is like a superpower that allows the model to adapt to new data without retraining from scratch 💪. And, for you to see how it works in practice, I leave you with a code example that will make you say 'Eureka!' 🎉 Let's dive into the world of QLoRA and discover how we can make our models smarter and more efficient! 🤓",
+          "URL": "https://maximofn.com/qlora/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/27/de0af16a-b5c9-4c0e-9d4f-3d729adf2001_gptq-thumbnail-shot.png",
-            "alt": "GPTQ-thumbnail-shot.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/29/c7933d1f-5ec8-4227-9e78-f766f15979ed_qlora_thumbnail_en.jpg",
+            "alt": "QLoRA_thumbnail_EN.jpg"
           }
         },
         "type": "post",
@@ -285,6 +285,32 @@
         "publishingDate": "2024-07-01",
         "tags": [
           "post"
+        ]
+      },
+      {
+        "details": {
+          "name": "GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers",
+          "description": "Attention developers! 🚨 Do you have a language model that is too big and heavy for your application? 🤯 Don't worry, GPTQ is here to help you! 🤖 This quantization algorithm is like a wizard that makes unnecessary bits and bytes disappear, reducing the size of your model without losing too much precision. 🎩 It's like compressing a file without losing quality - it's a way to make your models more efficient and faster! 🚀",
+          "URL": "https://maximofn.com/gptq/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/27/de0af16a-b5c9-4c0e-9d4f-3d729adf2001_gptq-thumbnail-shot.png",
+            "alt": "GPTQ-thumbnail-shot.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
         ]
       },
       {
