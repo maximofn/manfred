@@ -247,12 +247,12 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "QLoRA: Efficient Finetuning of Quantized LLMs",
-          "description": "Hello everyone! 🤗 Today we are going to talk about QLoRA, the technique that will allow you to make your language models more efficient and faster ⏱️. But how does it do it? 🤔 Well, first it uses quantization to reduce the size of the model weights, which saves memory and speed 📈. Then, it applies LoRA (Low-Rank Adaptation), which is like a superpower that allows the model to adapt to new data without retraining from scratch 💪. And, for you to see how it works in practice, I leave you with a code example that will make you say 'Eureka!' 🎉 Let's dive into the world of QLoRA and discover how we can make our models smarter and more efficient! 🤓",
-          "URL": "https://maximofn.com/qlora/",
+          "name": "DoLa - Decoding by Contrasting Layers Improves Factuality in Large Language Models",
+          "description": "Have you ever talked to an LLM and they answered you something that sounds like they've been drinking machine coffee all night long 😂 That's what we call a \"hallucination\" in the LLM world! But don't worry, because it's not that your language model is crazy (although it can sometimes seem that way 🤪). The truth is that LLMs can be a bit... creative when it comes to generating text. But thanks to DoLa, a method that uses contrast layers to improve the feasibility of LLMs, we can keep our language models from turning into science fiction writers 😂. In this post, I'll explain how DoLa works and show you a code example so you can better understand how to make your LLMs more reliable and less prone to making up stories. Let's save our LLMs from insanity and make them more useful! 🚀",
+          "URL": "https://maximofn.com/dola/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/29/c7933d1f-5ec8-4227-9e78-f766f15979ed_qlora_thumbnail_en.jpg",
-            "alt": "QLoRA_thumbnail_EN.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/08/01/5f4dc892-366c-4821-b372-22c53ad5b711_dola-thumbnail.png",
+            "alt": "DoLa-thumbnail.png"
           }
         },
         "type": "post",
@@ -285,6 +285,32 @@
         "publishingDate": "2024-07-01",
         "tags": [
           "post"
+        ]
+      },
+      {
+        "details": {
+          "name": "QLoRA: Efficient Finetuning of Quantized LLMs",
+          "description": "Hello everyone! 🤗 Today we are going to talk about QLoRA, the technique that will allow you to make your language models more efficient and faster ⏱️. But how does it do it? 🤔 Well, first it uses quantization to reduce the size of the model weights, which saves memory and speed 📈. Then, it applies LoRA (Low-Rank Adaptation), which is like a superpower that allows the model to adapt to new data without retraining from scratch 💪. And, for you to see how it works in practice, I leave you with a code example that will make you say 'Eureka!' 🎉 Let's dive into the world of QLoRA and discover how we can make our models smarter and more efficient! 🤓",
+          "URL": "https://maximofn.com/qlora/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/29/c7933d1f-5ec8-4227-9e78-f766f15979ed_qlora_thumbnail_en.jpg",
+            "alt": "QLoRA_thumbnail_EN.jpg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
         ]
       },
       {
