@@ -247,6 +247,32 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "RAG fundamentals",
+          "description": "Forget about Ctrl+F! 🤯 With RAG, your documents will answer your questions directly. 😎 Step-by-step tutorial with Hugging Face and ChromaDB. Unleash the power of AI (and show off to your friends)! 💪",
+          "URL": "https://www.maximofn.com/en/rag-fundamentals",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/23/9831996b-6ab8-4f80-911c-02b58ccee7ba_rag-fundamentals.png",
+            "alt": "rag-fundamentals.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-10-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Hugging Face",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Conventional commits",
           "description": "😠 Are your commits written in alien language? 👽 Join the club! 😅 Learn Conventional Commits in Python and stop torturing your team with cryptic messages. git-changelog and commitizen will be your new best friends. 🤝",
           "URL": "https://www.maximofn.com/en/conventional-commits",
