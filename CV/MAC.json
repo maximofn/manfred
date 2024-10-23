@@ -247,6 +247,44 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Conventional commits",
+          "description": "😠 Are your commits written in alien language? 👽 Join the club! 😅 Learn Conventional Commits in Python and stop torturing your team with cryptic messages. git-changelog and commitizen will be your new best friends. 🤝",
+          "URL": "https://www.maximofn.com/en/conventional-commits",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/10/23/bcf13afc-3fd6-42f5-aab8-95bd5f970633_conventional-commits.png",
+            "alt": "conventional-commits.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-10-01",
+        "tags": [
+          "post"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Python",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "LLMs quantization",
+          "description": "Imagine having a giant language model that can answer any question, from the capital of France to the perfect brownie recipe! 🍞️🇫🇷 But what happens when that model has to fit on a mobile device? 📱 That's where quantization comes in! 🎉 This technique allows us to reduce the size of models without sacrificing their accuracy, which means we can enjoy artificial intelligence on our mobile devices without the need for a supercomputer. 💻 It's like compressing an elephant into a shoebox, but without crushing the elephant! 🐘😂",
+          "URL": "https://maximofn.com/llms-quantization/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/23/ac17f0de-0a25-4ae3-b397-d360bc7f5ff1_quantization-thumbna.png",
+            "alt": "quantization-thumbnail.png"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2024-07-01",
+        "tags": [
+          "post"
+        ]
+      },
+      {
+        "details": {
           "name": "DoLa - Decoding by Contrasting Layers Improves Factuality in Large Language Models",
           "description": "Have you ever talked to an LLM and they answered you something that sounds like they've been drinking machine coffee all night long 😂 That's what we call a \"hallucination\" in the LLM world! But don't worry, because it's not that your language model is crazy (although it can sometimes seem that way 🤪). The truth is that LLMs can be a bit... creative when it comes to generating text. But thanks to DoLa, a method that uses contrast layers to improve the feasibility of LLMs, we can keep our language models from turning into science fiction writers 😂. In this post, I'll explain how DoLa works and show you a code example so you can better understand how to make your LLMs more reliable and less prone to making up stories. Let's save our LLMs from insanity and make them more useful! 🚀",
           "URL": "https://maximofn.com/dola/",
@@ -269,22 +307,6 @@
             "name": "Python",
             "type": "technology"
           }
-        ]
-      },
-      {
-        "details": {
-          "name": "LLMs quantization",
-          "description": "Imagine having a giant language model that can answer any question, from the capital of France to the perfect brownie recipe! 🍞️🇫🇷 But what happens when that model has to fit on a mobile device? 📱 That's where quantization comes in! 🎉 This technique allows us to reduce the size of models without sacrificing their accuracy, which means we can enjoy artificial intelligence on our mobile devices without the need for a supercomputer. 💻 It's like compressing an elephant into a shoebox, but without crushing the elephant! 🐘😂",
-          "URL": "https://maximofn.com/llms-quantization/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/07/23/ac17f0de-0a25-4ae3-b397-d360bc7f5ff1_quantization-thumbna.png",
-            "alt": "quantization-thumbnail.png"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2024-07-01",
-        "tags": [
-          "post"
         ]
       },
       {
@@ -1447,6 +1469,12 @@
       ],
       "contactMails": [
         "maximofn@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "635244847",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
