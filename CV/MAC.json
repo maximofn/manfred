@@ -23,6 +23,10 @@
     },
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "http://linkedin.com/in/MaximoFN/"
+      },
+      {
         "type": "github",
         "URL": "https://github.com/maximofn"
       },
@@ -36,23 +40,19 @@
       },
       {
         "type": "other",
-        "URL": "https://maximofn.com/",
-        "description": "Portfolio"
+        "URL": "https://maximofn.com/"
       },
       {
         "type": "other",
-        "URL": "http://kaggle.com/maximofn",
-        "description": "kaggle"
+        "URL": "http://kaggle.com/maximofn"
       },
       {
         "type": "other",
-        "URL": "https://github.com/maximofn/maximofn/raw/main/Curriculum%20Vitae%20(5).pdf",
-        "description": "Resume"
+        "URL": "https://github.com/maximofn/maximofn/raw/main/Curriculum%20Vitae%20(5).pdf"
       },
       {
         "type": "other",
-        "URL": "https://huggingface.co/Maximofn",
-        "description": "Huggingface"
+        "URL": "https://huggingface.co/Maximofn"
       }
     ]
   },
@@ -1480,6 +1480,10 @@
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
+        {
+          "URL": "http://linkedin.com/in/MaximoFN/",
+          "type": "linkedin"
+        },
         {
           "URL": "https://stackoverflow.com/users/18470429/maximofn",
           "type": "stackoverflow"
