@@ -1364,19 +1364,19 @@
       },
       {
         "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
+          "name": "LangChain",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MLflow",
           "type": "technology"
         }
       },
@@ -1542,11 +1542,15 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Docker",
+        "name": "Azure",
         "type": "technology"
       },
       {
-        "name": "Git",
+        "name": "LangChain",
+        "type": "technology"
+      },
+      {
+        "name": "MLflow",
         "type": "technology"
       },
       {
